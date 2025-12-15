@@ -1,0 +1,7 @@
+.wercker
+/resources
+build_*/*
+*.iml
+*.ipr
+*.iws
+
