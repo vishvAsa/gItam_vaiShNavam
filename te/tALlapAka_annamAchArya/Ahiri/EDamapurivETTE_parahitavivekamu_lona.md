@@ -1,15 +1,16 @@
 +++
-"title" = "ऎडमपुरिवॆट्टॆ परहितविवेकमु, लोन"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "आहिरि"
+title = "ऎडमपुरिवॆट्टॆ परहितविवेकमु, लोन"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "आहिरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00315&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 आहिरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 61-6  
-सम्पुटमु - 1-315
+रेकु- 61-6  
+सम्पुटमु- 1-315
 </details>
 
 <details open><summary>मूलम्</summary>

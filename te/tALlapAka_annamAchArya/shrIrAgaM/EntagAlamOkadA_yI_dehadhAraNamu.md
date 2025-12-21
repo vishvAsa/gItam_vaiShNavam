@@ -1,15 +1,16 @@
 +++
-"title" = "ऎन्तगालमॊकदा यी देहधारणमु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "श्रीरागं"
+title = "ऎन्तगालमॊकदा यी देहधारणमु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "श्रीरागं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00316&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 श्रीरागं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 62-1  
-सम्पुटमु - 1-316
+रेकु- 62-1  
+सम्पुटमु- 1-316
 </details>
 
 <details open><summary>मूलम्</summary>

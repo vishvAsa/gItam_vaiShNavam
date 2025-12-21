@@ -1,15 +1,16 @@
 +++
-"title" = "इटुवलॆने पो सकलमु यिञ्चुकगन भाविञ्चिन"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "बौळि"
+title = "इटुवलॆने पो सकलमु यिञ्चुकगन भाविञ्चिन"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "बौळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00306&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 बौळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 50-3  
-सम्पुटमु - 1-306
+रेकु- 50-3  
+सम्पुटमु- 1-306
 </details>
 
 <details open><summary>मूलम्</summary>

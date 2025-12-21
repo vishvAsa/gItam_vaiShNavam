@@ -1,15 +1,16 @@
 +++
-"title" = "मादृशानां भवामयदेहिनां"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"मुखारि" = "मुखारि"
+title = "मादृशानां भवामयदेहिनां"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "मुखारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00325&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 मुखारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 63-4  
-सम्पुटमु - 1-325  
+रेकु- 63-4  
+सम्पुटमु- 1-325  
 संस्कृतकीर्तन
 </details>
 

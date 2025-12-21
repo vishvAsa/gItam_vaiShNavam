@@ -1,15 +1,16 @@
 +++
-"title" = "तलँप वॆनक नुय्यि तगरु मुन्दट(?) दीनँ"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "छायानाट"
+title = "तलँप वॆनक नुय्यि तगरु मुन्दट(?) दीनँ"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "छायानाट"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00310&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 छायानाट  
 अध्यात्म सङ्कीर्तन  
-रेकु - 61-1  
-सम्पुटमु - 1-310
+रेकु- 61-1  
+सम्पुटमु- 1-310
 </details>
 
 <details open><summary>मूलम्</summary>

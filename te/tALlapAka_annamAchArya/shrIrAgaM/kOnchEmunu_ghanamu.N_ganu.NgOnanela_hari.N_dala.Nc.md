@@ -1,15 +1,16 @@
 +++
-"title" = "कॊञ्चॆमुनु घनमुँ गनुँगॊननेल हरिँ दलँचु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "श्रीरागं"
+title = "कॊञ्चॆमुनु घनमुँ गनुँगॊननेल हरिँ दलँचु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "श्रीरागं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00329&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 श्रीरागं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 64-2  
-सम्पुटमु - 1-329
+रेकु- 64-2  
+सम्पुटमु- 1-329
 </details>
 
 <details open><summary>मूलम्</summary>

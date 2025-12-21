@@ -1,15 +1,16 @@
 +++
-"title" = "जीवुँ डॆन्तटिवाँडु चित्त मॆन्तटिदि तन"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "देशि"
+title = "जीवुँ डॆन्तटिवाँडु चित्त मॆन्तटिदि तन"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "देशि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00327&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 देशि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 63-6  
-सम्पुटमु - 1-327
+रेकु- 63-6  
+सम्पुटमु- 1-327
 </details>
 
 <details open><summary>मूलम्</summary>

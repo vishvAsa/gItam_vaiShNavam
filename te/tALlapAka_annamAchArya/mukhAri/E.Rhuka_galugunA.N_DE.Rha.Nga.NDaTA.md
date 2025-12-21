@@ -1,15 +1,16 @@
 +++
-"title" = "ऎऱुक गलुगुनाँ डॆऱँगँडटा"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"मुखारि" = "मुखारि"
+title = "ऎऱुक गलुगुनाँ डॆऱँगँडटा"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "मुखारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00304&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 मुखारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 50-1  
-सम्पुटमु - 1-304
+रेकु- 50-1  
+सम्पुटमु- 1-304
 </details>
 
 <details open><summary>मूलम्</summary>

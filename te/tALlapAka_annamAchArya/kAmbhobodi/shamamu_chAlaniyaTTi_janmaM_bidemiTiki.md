@@ -1,15 +1,16 @@
 +++
-"title" = "शममु चालनियट्टि जन्मं बिदेमिटिकि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "काम्भो(बो)दि"
+title = "शममु चालनियट्टि जन्मं बिदेमिटिकि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "काम्भो(बो)दि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00307&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 काम्भो(बो)दि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 50-4  
-सम्पुटमु - 1-307
+रेकु- 50-4  
+सम्पुटमु- 1-307
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -1,15 +1,16 @@
 +++
-"title" = "कॊण्ड दव्वुट यॆलुक गोरिपट्टुट दीन"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "भवुळि"
+title = "कॊण्ड दव्वुट यॆलुक गोरिपट्टुट दीन"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "भवुळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00321&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 भवुळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 62-6  
-सम्पुटमु - 1-321
+रेकु- 62-6  
+सम्पुटमु- 1-321
 </details>
 
 <details open><summary>मूलम्</summary>

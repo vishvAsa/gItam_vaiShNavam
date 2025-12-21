@@ -1,15 +1,16 @@
 +++
-"title" = "वीँडिवो यिदॆ विन्तदॊङ्ग"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "भैरवि"
+title = "वीँडिवो यिदॆ विन्तदॊङ्ग"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "भैरवि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00322&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 भैरवि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 63-1  
-सम्पुटमु - 1-322
+रेकु- 63-1  
+सम्पुटमु- 1-322
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -1,7 +1,8 @@
 +++
-"title" = "तॆलिसिनँ दॆलियुँडु तॆलियनिवारलु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "नाट  \n[1]"
+title = "तॆलिसिनँ दॆलियुँडु तॆलियनिवारलु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "नाट  \n[1]"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00317&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
@@ -9,8 +10,8 @@
 नाट  
 [1]  
 अध्यात्म सङ्कीर्तन  
-रेकु - 62-2  
-सम्पुटमु - 1-317
+रेकु- 62-2  
+सम्पुटमु- 1-317
 </details>
 
 <details open><summary>मूलम्</summary>

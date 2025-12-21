@@ -1,15 +1,16 @@
 +++
-"title" = "वॆलिकी वॆळ्ळँडु चलिकी वॆरवँडु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "कन्नडगौळ"
+title = "वॆलिकी वॆळ्ळँडु चलिकी वॆरवँडु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "कन्नडगौळ"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00313&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 कन्नडगौळ  
 अध्यात्म सङ्कीर्तन  
-रेकु - 61-4  
-सम्पुटमु - 1-313
+रेकु- 61-4  
+सम्पुटमु- 1-313
 </details>
 
 <details open><summary>मूलम्</summary>

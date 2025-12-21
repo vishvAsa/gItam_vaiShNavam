@@ -1,15 +1,16 @@
 +++
-"title" = "नन्दनन्दन वेणुनादविनोद मु-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "धन्नासि"
+title = "नन्दनन्दन वेणुनादविनोद मु-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "धन्नासि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00312&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 धन्नासि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 61-3  
-सम्पुटमु - 1-312  
+रेकु- 61-3  
+सम्पुटमु- 1-312  
 संस्कृतकीर्तन
 </details>
 

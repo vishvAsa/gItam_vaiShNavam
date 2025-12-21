@@ -1,15 +1,16 @@
 +++
-"title" = "कडुपॆन्त ताँ गुडुचु कुडुपॆन्त दीनिकै"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "गुण्डक्रिय"
+title = "कडुपॆन्त ताँ गुडुचु कुडुपॆन्त दीनिकै"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "गुण्डक्रिय"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00302&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 गुण्डक्रिय  
 अध्यात्म सङ्कीर्तन  
-रेकु - 49-5  
-सम्पुटमु - 1-302
+रेकु- 49-5  
+सम्पुटमु- 1-302
 </details>
 
 <details open><summary>मूलम्</summary>

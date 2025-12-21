@@ -1,15 +1,16 @@
 +++
-"title" = "ऎक्कुवकुलजुँडैन हीनकुलजुँडैन"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "सामन्तं"
+title = "ऎक्कुवकुलजुँडैन हीनकुलजुँडैन"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "सामन्तं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00318&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 सामन्तं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 62-3  
-सम्पुटमु - 1-318
+रेकु- 62-3  
+सम्पुटमु- 1-318
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -1,15 +1,16 @@
 +++
-"title" = "तॆलिसियु नत्यन्तदीनुँडै तन्नुँ"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "बौळि"
+title = "तॆलिसियु नत्यन्तदीनुँडै तन्नुँ"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "बौळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00330&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 बौळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 64-3  
-सम्पुटमु - 1-330
+रेकु- 64-3  
+सम्पुटमु- 1-330
 </details>
 
 <details open><summary>मूलम्</summary>

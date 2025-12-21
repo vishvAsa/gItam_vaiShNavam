@@ -1,15 +1,16 @@
 +++
-"title" = "एदियुनु लेनि देँटिजन्ममु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "नाट"
+title = "एदियुनु लेनि देँटिजन्ममु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "नाट"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00301&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 नाट  
 अध्यात्म सङ्कीर्तन  
-रेकु - 49-4  
-सम्पुटमु - 1-301
+रेकु- 49-4  
+सम्पुटमु- 1-301
 </details>
 
 <details open><summary>मूलम्</summary>

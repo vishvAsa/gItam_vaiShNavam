@@ -1,15 +1,16 @@
 +++
-"title" = "एमि गलदिन्दु नॆन्त पॆनगिनँ वृथा"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "वराळि"
+title = "एमि गलदिन्दु नॆन्त पॆनगिनँ वृथा"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "वराळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=00328&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 वराळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 64-1  
-सम्पुटमु - 1-328
+रेकु- 64-1  
+सम्पुटमु- 1-328
 </details>
 
 <details open><summary>मूलम्</summary>
