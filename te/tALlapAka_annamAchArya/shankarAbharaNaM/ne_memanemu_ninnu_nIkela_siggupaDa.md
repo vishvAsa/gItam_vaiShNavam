@@ -9,8 +9,8 @@ upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id
 ताळ्लपाक अन्नमाचार्य  
 शङ्कराभरणं  
 शृङ्गार सङ्कीर्तन  
-रेकु - 1638-5  
-सम्पुटमु - 26-226
+रेकु- 1638-5  
+सम्पुटमु- 26-226
 </details>
 
 <details open><summary>मूलम्</summary>
