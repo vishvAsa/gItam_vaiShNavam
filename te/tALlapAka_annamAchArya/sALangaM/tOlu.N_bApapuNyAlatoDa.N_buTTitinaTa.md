@@ -1,15 +1,16 @@
 +++
-"title" = "तॊलुँ बापपुण्यालतोडँ बुट्टितिनट"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "साळङ्गं"
+title = "तॊलुँ बापपुण्यालतोडँ बुट्टितिनट"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "साळङ्गं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=169&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 साळङ्गं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 28-1  
-सम्पुटमु - 1-169
+रेकु- 28-1  
+सम्पुटमु- 1-169
 </details>
 
 <details open><summary>मूलम्</summary>

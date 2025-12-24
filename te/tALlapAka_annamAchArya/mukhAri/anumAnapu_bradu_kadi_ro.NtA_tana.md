@@ -2,14 +2,15 @@
 title = "अनुमानपु ब्रदु कदि रोँता तन"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "मुखारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=26&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 मुखारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 4-6  
-सम्पुटमु - 1-26
+रेकु- 4-6  
+सम्पुटमु- 1-26
 </details>
 
 <details open><summary>मूलम्</summary>

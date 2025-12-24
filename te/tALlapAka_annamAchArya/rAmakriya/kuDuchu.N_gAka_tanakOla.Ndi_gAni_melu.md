@@ -1,15 +1,16 @@
 +++
-"title" = "कुडुचुँ गाक तनकॊलँदि गानि मेलु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "रामक्रिय"
+title = "कुडुचुँ गाक तनकॊलँदि गानि मेलु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "रामक्रिय"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=187&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 रामक्रिय  
 अध्यात्म सङ्कीर्तन  
-रेकु - 30-6  
-सम्पुटमु - 1-187
+रेकु- 30-6  
+सम्पुटमु- 1-187
 </details>
 
 <details open><summary>मूलम्</summary>

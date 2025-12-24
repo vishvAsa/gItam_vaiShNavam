@@ -1,15 +1,16 @@
 +++
-"title" = "ईतँ डखिलम्बुनकु नीश्वरुँडै सकल-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "श्रीरागं"
+title = "ईतँ डखिलम्बुनकु नीश्वरुँडै सकल-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "श्रीरागं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=170&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 श्रीरागं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 28-2  
-सम्पुटमु - 1-170
+रेकु- 28-2  
+सम्पुटमु- 1-170
 </details>
 
 <details open><summary>मूलम्</summary>

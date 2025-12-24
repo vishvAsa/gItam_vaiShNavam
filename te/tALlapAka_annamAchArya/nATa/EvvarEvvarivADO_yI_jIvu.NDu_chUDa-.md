@@ -1,15 +1,16 @@
 +++
-"title" = "ऎव्वरॆव्वरिवाडॊ यी जीवुँडु चूड-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "नाट"
+title = "ऎव्वरॆव्वरिवाडॊ यी जीवुँडु चूड-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "नाट"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=97&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 नाट  
 अध्यात्म सङ्कीर्तन  
-रेकु - 16-3  
-सम्पुटमु - 1-97
+रेकु- 16-3  
+सम्पुटमु- 1-97
 </details>
 
 <details open><summary>मूलम्</summary>

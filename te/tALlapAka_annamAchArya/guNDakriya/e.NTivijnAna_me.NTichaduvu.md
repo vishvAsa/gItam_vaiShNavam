@@ -2,14 +2,15 @@
 title = "एँटिविज्ञान मेँटिचदुवु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "गुण्डक्रिय"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=77&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 गुण्डक्रिय  
 अध्यात्म सङ्कीर्तन  
-रेकु - 13-1  
-सम्पुटमु - 1-77
+रेकु- 13-1  
+सम्पुटमु- 1-77
 </details>
 
 <details open><summary>मूलम्</summary>

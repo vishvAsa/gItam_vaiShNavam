@@ -1,15 +1,16 @@
 +++
-"title" = "ऎन्त सेयँगलेदु यिटुवण्टि विधि यभवु-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"मुखारि" = "मुखारि"
+title = "ऎन्त सेयँगलेदु यिटुवण्टि विधि यभवु-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "मुखारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=134&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 मुखारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 22-4  
-सम्पुटमु - 1-134
+रेकु- 22-4  
+सम्पुटमु- 1-134
 </details>
 
 <details open><summary>मूलम्</summary>

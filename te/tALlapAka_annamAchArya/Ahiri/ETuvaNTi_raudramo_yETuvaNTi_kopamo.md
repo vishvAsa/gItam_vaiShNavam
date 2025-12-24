@@ -1,15 +1,16 @@
 +++
-"title" = "ऎटुवण्टि रौद्रमो यॆटुवण्टि कोपमो"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "आहिरि"
+title = "ऎटुवण्टि रौद्रमो यॆटुवण्टि कोपमो"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "आहिरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=211&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 आहिरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 34-4  
-सम्पुटमु - 1-211
+रेकु- 34-4  
+सम्पुटमु- 1-211
 </details>
 
 <details open><summary>मूलम्</summary>

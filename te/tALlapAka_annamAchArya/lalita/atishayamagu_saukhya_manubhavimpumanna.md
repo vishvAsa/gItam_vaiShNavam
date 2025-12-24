@@ -1,15 +1,16 @@
 +++
-"title" = "अतिशयमगु सौख्य मनुभविम्पुमन्न"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "ललित"
+title = "अतिशयमगु सौख्य मनुभविम्पुमन्न"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "ललित"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=154&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 ललित  
 अध्यात्म सङ्कीर्तन  
-रेकु - 25-6  
-सम्पुटमु - 1-154
+रेकु- 25-6  
+सम्पुटमु- 1-154
 </details>
 
 <details open><summary>मूलम्</summary>

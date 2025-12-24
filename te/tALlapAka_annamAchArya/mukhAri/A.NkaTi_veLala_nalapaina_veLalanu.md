@@ -1,15 +1,16 @@
 +++
-"title" = "आँकटि वेळल नलपैन वेळलनु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "मुखारि"
+title = "आँकटि वेळल नलपैन वेळलनु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "मुखारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=158&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 मुखारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 26-3  
-सम्पुटमु - 1-158
+रेकु- 26-3  
+सम्पुटमु- 1-158
 </details>
 
 <details open><summary>मूलम्</summary>

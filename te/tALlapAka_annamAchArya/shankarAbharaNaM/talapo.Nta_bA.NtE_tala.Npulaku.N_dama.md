@@ -2,14 +2,15 @@
 title = "तलपोँत बाँतॆ तलँपुलकुँ दम"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "शङ्कराभरणं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=41&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 शङ्कराभरणं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 6-6  
-सम्पुटमु - 1-41
+रेकु- 6-6  
+सम्पुटमु- 1-41
 </details>
 
 <details open><summary>मूलम्</summary>

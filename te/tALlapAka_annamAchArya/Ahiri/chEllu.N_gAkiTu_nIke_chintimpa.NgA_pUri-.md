@@ -1,15 +1,16 @@
 +++
-"title" = "चॆल्लुँ गाकिटु नीके चिन्तिम्पँगा पूरि-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "आहिरि"
+title = "चॆल्लुँ गाकिटु नीके चिन्तिम्पँगा पूरि-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "आहिरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=182&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 आहिरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 30-1  
-सम्पुटमु - 1-182
+रेकु- 30-1  
+सम्पुटमु- 1-182
 </details>
 
 <details open><summary>मूलम्</summary>

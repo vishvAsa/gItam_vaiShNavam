@@ -2,14 +2,15 @@
 title = "इन्नियुँ गलुगु टेजन्ममुननैनँ"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "नादरामक्रिय"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=34&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 नादरामक्रिय  
 अध्यात्म सङ्कीर्तन  
-रेकु - 5-5  
-सम्पुटमु - 1-34
+रेकु- 5-5  
+सम्पुटमु- 1-34
 </details>
 
 <details open><summary>मूलम्</summary>

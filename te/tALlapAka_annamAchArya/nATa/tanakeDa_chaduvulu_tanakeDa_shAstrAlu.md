@@ -1,15 +1,16 @@
 +++
-"title" = "तनकेड चदुवुलु तनकेड शास्त्रालु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "नाट"
+title = "तनकेड चदुवुलु तनकेड शास्त्रालु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "नाट"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=198&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 नाट  
 अध्यात्म सङ्कीर्तन  
-रेकु - 32-4  
-सम्पुटमु - 1-198
+रेकु- 32-4  
+सम्पुटमु- 1-198
 </details>
 
 <details open><summary>मूलम्</summary>

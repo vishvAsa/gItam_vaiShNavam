@@ -2,14 +2,15 @@
 title = "ऎव्वँडो कानि यॆरँगरादु कडु-"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "रामक्रिय"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=74&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 रामक्रिय  
 अध्यात्म सङ्कीर्तन  
-रेकु - 12-3  
-सम्पुटमु - 1-74
+रेकु- 12-3  
+सम्पुटमु- 1-74
 </details>
 
 <details open><summary>मूलम्</summary>

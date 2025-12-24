@@ -1,15 +1,16 @@
 +++
-"title" = "ऎन्त विभवमु गलिगॆ नन्तयुनु नावदनि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "धन्नासि"
+title = "ऎन्त विभवमु गलिगॆ नन्तयुनु नावदनि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "धन्नासि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=181&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 धन्नासि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 29-6  
-सम्पुटमु - 1-181
+रेकु- 29-6  
+सम्पुटमु- 1-181
 </details>
 
 <details open><summary>मूलम्</summary>

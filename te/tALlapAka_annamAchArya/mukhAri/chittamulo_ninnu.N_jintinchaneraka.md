@@ -2,14 +2,15 @@
 title = "चित्तमुलो निन्नुँ जिन्तिञ्चनेरक"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "मुखारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=19&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 मुखारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 3-6  
-सम्पुटमु - 1-19
+रेकु- 3-6  
+सम्पुटमु- 1-19
 </details>
 
 <details open><summary>मूलम्</summary>

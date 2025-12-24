@@ -1,15 +1,16 @@
 +++
-"title" = "परमात्मुनि नोरँबाडुचुनु यिरु-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "केदारगौळ"
+title = "परमात्मुनि नोरँबाडुचुनु यिरु-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "केदारगौळ"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=130&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 केदारगौळ  
 अध्यात्म सङ्कीर्तन  
-रेकु - 21-6  
-सम्पुटमु - 1-130
+रेकु- 21-6  
+सम्पुटमु- 1-130
 </details>
 
 <details open><summary>मूलम्</summary>

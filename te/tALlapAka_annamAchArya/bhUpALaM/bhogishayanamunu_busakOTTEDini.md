@@ -1,15 +1,16 @@
 +++
-"title" = "भोगिशयनमुनु बुसकॊट्टॆडिनि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "भूपाळं"
+title = "भोगिशयनमुनु बुसकॊट्टॆडिनि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "भूपाळं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=139&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 भूपाळं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 23-3  
-सम्पुटमु - 1-139
+रेकु- 23-3  
+सम्पुटमु- 1-139
 </details>
 
 <details open><summary>मूलम्</summary>

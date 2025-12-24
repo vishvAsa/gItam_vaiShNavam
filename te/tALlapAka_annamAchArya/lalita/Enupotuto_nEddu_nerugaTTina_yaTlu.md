@@ -1,15 +1,16 @@
 +++
-"title" = "ऎनुपोतुतो नॆद्दु नेरुगट्टिन यट्लु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "ललित"
+title = "ऎनुपोतुतो नॆद्दु नेरुगट्टिन यट्लु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "ललित"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=156&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 ललित  
 अध्यात्म सङ्कीर्तन  
-रेकु - 26-1  
-सम्पुटमु - 1-156
+रेकु- 26-1  
+सम्पुटमु- 1-156
 </details>
 
 <details open><summary>मूलम्</summary>

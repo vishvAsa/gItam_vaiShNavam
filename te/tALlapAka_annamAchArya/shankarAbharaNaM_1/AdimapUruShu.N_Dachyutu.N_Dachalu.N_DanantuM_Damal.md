@@ -2,6 +2,7 @@
 title = "आदिमपूरुषुँ डच्युतुँ डचलुँ डनन्तुं डमलुँडु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "शङ्कराभरणं  \n[1]"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=80&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
@@ -9,8 +10,8 @@ raaga = "शङ्कराभरणं  \n[1]"
 शङ्कराभरणं  
 [1]  
 अध्यात्म सङ्कीर्तन  
-रेकु - 13-4  
-सम्पुटमु - 1-80
+रेकु- 13-4  
+सम्पुटमु- 1-80
 </details>
 
 <details open><summary>मूलम्</summary>

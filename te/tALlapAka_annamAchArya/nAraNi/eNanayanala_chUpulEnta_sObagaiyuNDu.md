@@ -1,15 +1,16 @@
 +++
-"title" = "एणनयनल चूपुलॆन्त सॊबगैयुण्डु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "नारणि"
+title = "एणनयनल चूपुलॆन्त सॊबगैयुण्डु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "नारणि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=99&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 नारणि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 16-5  
-सम्पुटमु - 1-99
+रेकु- 16-5  
+सम्पुटमु- 1-99
 </details>
 
 <details open><summary>मूलम्</summary>

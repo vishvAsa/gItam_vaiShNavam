@@ -2,14 +2,15 @@
 title = "वलचि पैकॊनँगरादु वलदनि तॊलँगरादु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "सामन्तं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=1&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 सामन्तं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 1-1  
-सम्पुटमु - 1-1
+रेकु- 1-1  
+सम्पुटमु- 1-1
 </details>
 
 <details open><summary>मूलम्</summary>

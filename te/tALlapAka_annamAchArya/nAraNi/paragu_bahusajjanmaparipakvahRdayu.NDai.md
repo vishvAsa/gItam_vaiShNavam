@@ -1,15 +1,16 @@
 +++
-"title" = "परगु बहुसज्जन्मपरिपक्वहृदयुँडै"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "नारणि"
+title = "परगु बहुसज्जन्मपरिपक्वहृदयुँडै"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "नारणि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=131&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 नारणि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 22-1  
-सम्पुटमु - 1-131
+रेकु- 22-1  
+सम्पुटमु- 1-131
 </details>
 
 <details open><summary>मूलम्</summary>

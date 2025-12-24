@@ -2,14 +2,15 @@
 title = "जीवातुमै युण्डु चिलुका नी-"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "आहिरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=50&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 आहिरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 8-2  
-सम्पुटमु - 1-50
+रेकु- 8-2  
+सम्पुटमु- 1-50
 </details>
 
 <details open><summary>मूलम्</summary>

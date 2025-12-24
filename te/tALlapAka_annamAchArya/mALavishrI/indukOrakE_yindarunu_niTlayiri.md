@@ -2,14 +2,15 @@
 title = "इन्दुकॊरकॆ यिन्दरुनु निट्लयिरि"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "माळविश्री"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=11&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 माळविश्री  
 अध्यात्म सङ्कीर्तन  
-रेकु - 2-5  
-सम्पुटमु - 1-11
+रेकु- 2-5  
+सम्पुटमु- 1-11
 </details>
 
 <details open><summary>मूलम्</summary>

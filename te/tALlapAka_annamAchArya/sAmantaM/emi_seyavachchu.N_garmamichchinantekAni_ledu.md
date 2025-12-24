@@ -2,14 +2,15 @@
 title = "एमि सेयवच्चुँ गर्ममिच्चिनन्तेकानि लेदु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "सामन्तं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=55&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 सामन्तं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 9-1  
-सम्पुटमु - 1-55
+रेकु- 9-1  
+सम्पुटमु- 1-55
 </details>
 
 <details open><summary>मूलम्</summary>

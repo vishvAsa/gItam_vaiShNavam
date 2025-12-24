@@ -2,14 +2,15 @@
 title = "आलागु पॊन्दुलुनु नटुवण्टि कूटमुलु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "आहिरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=30&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 आहिरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 5-2  
-सम्पुटमु - 1-30
+रेकु- 5-2  
+सम्पुटमु- 1-30
 </details>
 
 <details open><summary>मूलम्</summary>

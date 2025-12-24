@@ -1,7 +1,8 @@
 +++
-"title" = "पुट्टुमालिन बरुबोँकिवि नन्नुँ"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "साळङ्गं  \n[1]"
+title = "पुट्टुमालिन बरुबोँकिवि नन्नुँ"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "साळङ्गं  \n[1]"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=107&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
@@ -9,8 +10,8 @@
 साळङ्गं  
 [1]  
 अध्यात्म सङ्कीर्तन  
-रेकु - 18-1  
-सम्पुटमु - 1-107
+रेकु- 18-1  
+सम्पुटमु- 1-107
 </details>
 
 <details open><summary>मूलम्</summary>

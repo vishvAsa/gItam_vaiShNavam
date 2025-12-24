@@ -2,14 +2,15 @@
 title = "ऎव्वरिँ गादन्न निदि निन्नुँ गादण्ट"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "बौळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=9&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 बौळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 2-3  
-सम्पुटमु - 1-9
+रेकु- 2-3  
+सम्पुटमु- 1-9
 </details>
 
 <details open><summary>मूलम्</summary>

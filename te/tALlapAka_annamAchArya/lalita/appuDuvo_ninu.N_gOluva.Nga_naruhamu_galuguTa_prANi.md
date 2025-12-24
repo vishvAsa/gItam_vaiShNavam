@@ -2,14 +2,15 @@
 title = "अप्पुडुवो निनुँ गॊलुवँग नरुहमु गलुगुट प्राणिकि"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "ललित"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=43&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 ललित  
 अध्यात्म सङ्कीर्तन  
-रेकु - 7-2  
-सम्पुटमु - 1-43
+रेकु- 7-2  
+सम्पुटमु- 1-43
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -2,14 +2,15 @@
 title = "घोरविदारण नारसिंह नी-"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "नाट"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=68&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 नाट  
 अध्यात्म सङ्कीर्तन  
-रेकु - 11-2  
-सम्पुटमु - 1-68
+रेकु- 11-2  
+सम्पुटमु- 1-68
 </details>
 
 <details open><summary>मूलम्</summary>

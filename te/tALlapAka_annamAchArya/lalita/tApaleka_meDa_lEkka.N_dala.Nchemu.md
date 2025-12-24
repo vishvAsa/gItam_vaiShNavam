@@ -1,15 +1,16 @@
 +++
-"title" = "तापलेक मेड लॆक्कँ दलँचेमु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "ललित"
+title = "तापलेक मेड लॆक्कँ दलँचेमु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "ललित"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=94&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 ललित  
 अध्यात्म सङ्कीर्तन  
-रेकु - 15-6  
-सम्पुटमु - 1-94
+रेकु- 15-6  
+सम्पुटमु- 1-94
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -1,15 +1,16 @@
 +++
-"title" = "एल पॊरलेवुलेवे यिन्तलोनि पनिकि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"मुखारि" = "मुखारि"
+title = "एल पॊरलेवुलेवे यिन्तलोनि पनिकि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "मुखारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=189&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 मुखारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 31-2  
-सम्पुटमु - 1-189
+रेकु- 31-2  
+सम्पुटमु- 1-189
 </details>
 
 <details open><summary>मूलम्</summary>

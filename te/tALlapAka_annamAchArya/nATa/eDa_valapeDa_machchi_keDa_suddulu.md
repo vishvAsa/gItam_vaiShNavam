@@ -1,15 +1,16 @@
 +++
-"title" = "एड वलपेड मच्चि केड सुद्दुलु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "नाट"
+title = "एड वलपेड मच्चि केड सुद्दुलु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "नाट"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=220&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 नाट  
 अध्यात्म सङ्कीर्तन  
-रेकु - 36-1  
-सम्पुटमु - 1-220
+रेकु- 36-1  
+सम्पुटमु- 1-220
 </details>
 
 <details open><summary>मूलम्</summary>

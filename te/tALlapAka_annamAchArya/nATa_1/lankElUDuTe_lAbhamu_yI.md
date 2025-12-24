@@ -1,7 +1,8 @@
 +++
-"title" = "लङ्कॆलूडुटे लाभमु यी"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "नाट  \n[1]"
+title = "लङ्कॆलूडुटे लाभमु यी"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "नाट  \n[1]"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=197&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
@@ -9,8 +10,8 @@
 नाट  
 [1]  
 अध्यात्म सङ्कीर्तन  
-रेकु - 32-3  
-सम्पुटमु - 1-197
+रेकु- 32-3  
+सम्पुटमु- 1-197
 </details>
 
 <details open><summary>मूलम्</summary>

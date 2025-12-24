@@ -1,15 +1,16 @@
 +++
-"title" = "चूडँ जूड माणिक्यालु चुक्कलवलॆ नुन्नवि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "वराळि"
+title = "चूडँ जूड माणिक्यालु चुक्कलवलॆ नुन्नवि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "वराळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=133&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 वराळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 22-3  
-सम्पुटमु - 1-133
+रेकु- 22-3  
+सम्पुटमु- 1-133
 </details>
 
 <details open><summary>मूलम्</summary>

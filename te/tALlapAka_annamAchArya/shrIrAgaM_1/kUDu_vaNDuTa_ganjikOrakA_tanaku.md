@@ -1,7 +1,8 @@
 +++
-"title" = "कूडु वण्डुट गञ्जिकॊरका तनकु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "श्रीरागं  \n[1]"
+title = "कूडु वण्डुट गञ्जिकॊरका तनकु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "श्रीरागं  \n[1]"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=115&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
@@ -9,8 +10,8 @@
 श्रीरागं  
 [1]  
 अध्यात्म सङ्कीर्तन  
-रेकु - 19-3  
-सम्पुटमु - 1-115
+रेकु- 19-3  
+सम्पुटमु- 1-115
 </details>
 
 <details open><summary>मूलम्</summary>

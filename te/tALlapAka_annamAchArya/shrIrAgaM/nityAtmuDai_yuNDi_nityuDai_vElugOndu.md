@@ -2,14 +2,15 @@
 title = "नित्यात्मुडै युण्डि नित्युडै वॆलुगॊन्दु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "श्रीरागं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=75&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 श्रीरागं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 12-4  
-सम्पुटमु - 1-75
+रेकु- 12-4  
+सम्पुटमु- 1-75
 </details>
 
 <details open><summary>मूलम्</summary>

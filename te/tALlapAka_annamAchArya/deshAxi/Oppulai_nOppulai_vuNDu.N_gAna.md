@@ -1,15 +1,16 @@
 +++
-"title" = "ऒप्पुलै नॊप्पुलै वुण्डुँ गान"
-"ताळ्लपाक अन्नमाचार्य" = "ताळ्लपाक अन्नमाचार्य"
-"देशाक्षि" = "देशाक्षि"
+title = "ऒप्पुलै नॊप्पुलै वुण्डुँ गान"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "देशाक्षि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=149&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 देशाक्षि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 25-1  
-सम्पुटमु - 1-149
+रेकु- 25-1  
+सम्पुटमु- 1-149
 </details>
 
 <details open><summary>मूलम्</summary>

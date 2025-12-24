@@ -1,15 +1,16 @@
 +++
-"title" = "एमी नॆऱँगनि मम्मु नॆक्कुव सेसि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "आहिरि"
+title = "एमी नॆऱँगनि मम्मु नॆक्कुव सेसि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "आहिरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=162&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 आहिरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 27-1  
-सम्पुटमु - 1-162
+रेकु- 27-1  
+सम्पुटमु- 1-162
 </details>
 
 <details open><summary>मूलम्</summary>

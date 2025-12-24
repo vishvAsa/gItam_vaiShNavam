@@ -1,15 +1,16 @@
 +++
-"title" = "पोयँ गालं बडविकिँ गायु वॆन्नॆलकरणिनि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "कन्नडगौळ"
+title = "पोयँ गालं बडविकिँ गायु वॆन्नॆलकरणिनि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "कन्नडगौळ"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=194&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 कन्नडगौळ  
 अध्यात्म सङ्कीर्तन  
-रेकु - 31-7  
-सम्पुटमु - 1-194
+रेकु- 31-7  
+सम्पुटमु- 1-194
 </details>
 
 <details open><summary>मूलम्</summary>

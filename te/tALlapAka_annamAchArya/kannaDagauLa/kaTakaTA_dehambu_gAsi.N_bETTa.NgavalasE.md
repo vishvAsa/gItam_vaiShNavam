@@ -1,15 +1,16 @@
 +++
-"title" = "कटकटा देहम्बु गासिँ बॆट्टँगवलसॆ"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "कन्नडगौळ"
+title = "कटकटा देहम्बु गासिँ बॆट्टँगवलसॆ"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "कन्नडगौळ"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=178&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 कन्नडगौळ  
 अध्यात्म सङ्कीर्तन  
-रेकु - 29-3  
-सम्पुटमु - 1-178
+रेकु- 29-3  
+सम्पुटमु- 1-178
 </details>
 
 <details open><summary>मूलम्</summary>

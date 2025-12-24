@@ -1,15 +1,16 @@
 +++
-"title" = "एँटिकि दलँकॆद रिन्दरुनु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "आहिरि"
+title = "एँटिकि दलँकॆद रिन्दरुनु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "आहिरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=101&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 आहिरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 17-1  
-सम्पुटमु - 1-101
+रेकु- 17-1  
+सम्पुटमु- 1-101
 </details>
 
 <details open><summary>मूलम्</summary>

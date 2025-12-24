@@ -2,6 +2,7 @@
 title = "ऎन्तैन दॊलँगवै तेदैन नामतिकि"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "देसाक्षि  \n[1]"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=76&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
@@ -9,8 +10,8 @@ raaga = "देसाक्षि  \n[1]"
 देसाक्षि  
 [1]  
 अध्यात्म सङ्कीर्तन  
-रेकु - 12-5  
-सम्पुटमु - 1-76
+रेकु- 12-5  
+सम्पुटमु- 1-76
 </details>
 
 <details open><summary>मूलम्</summary>

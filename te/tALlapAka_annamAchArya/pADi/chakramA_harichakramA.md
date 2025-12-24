@@ -1,15 +1,16 @@
 +++
-"title" = "चक्रमा हरिचक्रमा"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "पाडि"
+title = "चक्रमा हरिचक्रमा"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "पाडि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=183&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 पाडि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 30-2  
-सम्पुटमु - 1-183
+रेकु- 30-2  
+सम्पुटमु- 1-183
 </details>
 
 <details open><summary>मूलम्</summary>

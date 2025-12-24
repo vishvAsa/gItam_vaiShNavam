@@ -2,14 +2,15 @@
 title = "ऎव्वारु लेरू हितवु चॆप्पँग वट्टि"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "वराळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=15&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 वराळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 3-2  
-सम्पुटमु - 1-15
+रेकु- 3-2  
+सम्पुटमु- 1-15
 </details>
 
 <details open><summary>मूलम्</summary>

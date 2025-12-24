@@ -2,14 +2,15 @@
 title = "मलसीँ जूडरो मगसिंहमु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "शङ्कराभरणं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=13&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 शङ्कराभरणं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 2-7  
-सम्पुटमु - 1-13
+रेकु- 2-7  
+सम्पुटमु- 1-13
 </details>
 
 <details open><summary>मूलम्</summary>

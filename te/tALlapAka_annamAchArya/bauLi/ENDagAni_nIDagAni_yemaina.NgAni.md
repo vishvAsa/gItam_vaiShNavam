@@ -1,15 +1,16 @@
 +++
-"title" = "ऎण्डगानि नीडगानि येमैनँगानि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "बौळि"
+title = "ऎण्डगानि नीडगानि येमैनँगानि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "बौळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=214&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 बौळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 35-1  
-सम्पुटमु - 1-214
+रेकु- 35-1  
+सम्पुटमु- 1-214
 </details>
 
 <details open><summary>मूलम्</summary>

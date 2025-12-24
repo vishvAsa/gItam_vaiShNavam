@@ -2,14 +2,15 @@
 title = "पोरॊ पोरॊ यम्मलाल बॊम्मलाटवारमु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "वराळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=73&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 वराळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 12-2  
-सम्पुटमु - 1-73
+रेकु- 12-2  
+सम्पुटमु- 1-73
 </details>
 
 <details open><summary>मूलम्</summary>

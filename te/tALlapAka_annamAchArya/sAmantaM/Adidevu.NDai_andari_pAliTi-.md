@@ -1,15 +1,16 @@
 +++
-"title" = "आदिदेवुँडै अन्दरि पालिटि-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "सामन्तं"
+title = "आदिदेवुँडै अन्दरि पालिटि-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "सामन्तं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=127&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 सामन्तं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 21-3  
-सम्पुटमु - 1-127
+रेकु- 21-3  
+सम्पुटमु- 1-127
 </details>
 
 <details open><summary>मूलम्</summary>

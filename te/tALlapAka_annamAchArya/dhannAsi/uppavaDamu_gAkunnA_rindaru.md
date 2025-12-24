@@ -1,15 +1,16 @@
 +++
-"title" = "उप्पवडमु गाकुन्ना रिन्दरु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "धन्नासि"
+title = "उप्पवडमु गाकुन्ना रिन्दरु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "धन्नासि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=148&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 धन्नासि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 24-6  
-सम्पुटमु - 1-148
+रेकु- 24-6  
+सम्पुटमु- 1-148
 </details>
 
 <details open><summary>मूलम्</summary>

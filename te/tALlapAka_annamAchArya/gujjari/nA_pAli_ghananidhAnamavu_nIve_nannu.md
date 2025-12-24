@@ -1,15 +1,16 @@
 +++
-"title" = "ना पालि घननिधानमवु नीवे नन्नु"
-"ताळ्लपाक अन्नमाचार्य" = "ताळ्लपाक अन्नमाचार्य"
-"गुज्जरि" = "गुज्जरि"
+title = "ना पालि घननिधानमवु नीवे नन्नु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "गुज्जरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=108&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 गुज्जरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 18-2  
-सम्पुटमु - 1-108
+रेकु- 18-2  
+सम्पुटमु- 1-108
 </details>
 
 <details open><summary>मूलम्</summary>

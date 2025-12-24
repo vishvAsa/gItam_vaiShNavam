@@ -1,15 +1,16 @@
 +++
-"title" = "अण्टँबारि पट्टुकोरॆ अम्मलाल यिदॆ"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "आहिरि"
+title = "अण्टँबारि पट्टुकोरॆ अम्मलाल यिदॆ"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "आहिरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=122&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 आहिरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 20-4  
-सम्पुटमु - 1-122
+रेकु- 20-4  
+सम्पुटमु- 1-122
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -1,15 +1,16 @@
 +++
-"title" = "ऎन्नाळ्ळदाँकँ दा निट्टॆ वुण्डुट बुद्धि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "आहिरि"
+title = "ऎन्नाळ्ळदाँकँ दा निट्टॆ वुण्डुट बुद्धि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "आहिरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=113&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 आहिरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 19-1  
-सम्पुटमु - 1-113
+रेकु- 19-1  
+सम्पुटमु- 1-113
 </details>
 
 <details open><summary>मूलम्</summary>

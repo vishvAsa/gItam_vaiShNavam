@@ -1,15 +1,16 @@
 +++
-"title" = "एल समकॊनु सुकृत मॆल्लवारिकि महा-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "आहिरि"
+title = "एल समकॊनु सुकृत मॆल्लवारिकि महा-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "आहिरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=145&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 आहिरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 24-3  
-सम्पुटमु - 1-145
+रेकु- 24-3  
+सम्पुटमु- 1-145
 </details>
 
 <details open><summary>मूलम्</summary>

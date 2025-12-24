@@ -2,14 +2,15 @@
 title = "कॊनुट वॆग्गळमु दाँ दिनुट यल्पमु मीँदु-"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "गुण्डक्रिय"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=49&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 गुण्डक्रिय  
 अध्यात्म सङ्कीर्तन  
-रेकु - 8-1  
-सम्पुटमु - 1-49
+रेकु- 8-1  
+सम्पुटमु- 1-49
 </details>
 
 <details open><summary>मूलम्</summary>

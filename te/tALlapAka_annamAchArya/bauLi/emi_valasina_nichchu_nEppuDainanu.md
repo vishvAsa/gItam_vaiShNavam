@@ -1,15 +1,16 @@
 +++
-"title" = "एमि वलसिन निच्चु नॆप्पुडैननु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "बौळि"
+title = "एमि वलसिन निच्चु नॆप्पुडैननु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "बौळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=172&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 बौळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 28-4  
-सम्पुटमु - 1-172
+रेकु- 28-4  
+सम्पुटमु- 1-172
 </details>
 
 <details open><summary>मूलम्</summary>

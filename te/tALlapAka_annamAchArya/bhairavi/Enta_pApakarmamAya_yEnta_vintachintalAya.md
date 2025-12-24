@@ -1,15 +1,16 @@
 +++
-"title" = "ऎन्त पापकर्ममाय यॆन्त विन्तचिन्तलाय"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "भैरवि"
+title = "ऎन्त पापकर्ममाय यॆन्त विन्तचिन्तलाय"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "भैरवि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=186&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 भैरवि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 30-5  
-सम्पुटमु - 1-186
+रेकु- 30-5  
+सम्पुटमु- 1-186
 </details>
 
 <details open><summary>मूलम्</summary>

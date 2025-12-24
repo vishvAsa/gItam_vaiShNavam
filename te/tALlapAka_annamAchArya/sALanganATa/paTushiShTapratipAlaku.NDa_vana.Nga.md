@@ -1,15 +1,16 @@
 +++
-"title" = "पटुशिष्टप्रतिपालकुँड वनँग"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "साळङ्गनाट"
+title = "पटुशिष्टप्रतिपालकुँड वनँग"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "साळङ्गनाट"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=207&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 साळङ्गनाट  
 अध्यात्म सङ्कीर्तन  
-रेकु - 33-6  
-सम्पुटमु - 1-207
+रेकु- 33-6  
+सम्पुटमु- 1-207
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -2,14 +2,15 @@
 title = "वन्दे वासुदेवं"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "श्रीरागं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=53&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 श्रीरागं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 8-5  
-सम्पुटमु - 1-53  
+रेकु- 8-5  
+सम्पुटमु- 1-53  
 संस्कृतकीर्तन
 </details>
 

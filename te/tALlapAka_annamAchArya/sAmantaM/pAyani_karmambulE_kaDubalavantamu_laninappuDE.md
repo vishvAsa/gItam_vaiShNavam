@@ -2,14 +2,15 @@
 title = "पायनि कर्मम्बुलॆ कडुबलवन्तमु लनिनप्पुडॆ"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "सामन्तं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=47&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 सामन्तं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 7-6  
-सम्पुटमु - 1-47
+रेकु- 7-6  
+सम्पुटमु- 1-47
 </details>
 
 <details open><summary>मूलम्</summary>

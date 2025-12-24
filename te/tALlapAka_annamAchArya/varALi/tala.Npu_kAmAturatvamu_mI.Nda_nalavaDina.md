@@ -1,15 +1,16 @@
 +++
-"title" = "तलँपु कामातुरत्वमु मीँद नलवडिन"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "वराळि"
+title = "तलँपु कामातुरत्वमु मीँद नलवडिन"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "वराळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=105&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 वराळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 17-5  
-सम्पुटमु - 1-105
+रेकु- 17-5  
+सम्पुटमु- 1-105
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -1,15 +1,16 @@
 +++
-"title" = "इन्निचेँतलुनु देवुँडिच्चिनवे"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "शङ्कराभरणं"
+title = "इन्निचेँतलुनु देवुँडिच्चिनवे"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "शङ्कराभरणं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=210&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 शङ्कराभरणं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 34-3  
-सम्पुटमु - 1-210
+रेकु- 34-3  
+सम्पुटमु- 1-210
 </details>
 
 <details open><summary>मूलम्</summary>

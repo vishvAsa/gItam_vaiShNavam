@@ -1,15 +1,16 @@
 +++
-"title" = "चूडरॆव्वरु दीनि सोद्यम्बु परिकिञ्चि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "बौळि"
+title = "चूडरॆव्वरु दीनि सोद्यम्बु परिकिञ्चि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "बौळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=96&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 बौळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 16-2  
-सम्पुटमु - 1-96
+रेकु- 16-2  
+सम्पुटमु- 1-96
 </details>
 
 <details open><summary>मूलम्</summary>

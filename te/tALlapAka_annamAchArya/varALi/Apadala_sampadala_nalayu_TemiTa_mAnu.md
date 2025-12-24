@@ -1,15 +1,16 @@
 +++
-"title" = "आपदल सम्पदल नलयु टेमिट मानु"
-"ताळ्लपाक अन्नमाचार्य" = "ताळ्लपाक अन्नमाचार्य"
-"वराळि" = "वराळि"
+title = "आपदल सम्पदल नलयु टेमिट मानु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "वराळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=143&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 वराळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 24-1  
-सम्पुटमु - 1-143
+रेकु- 24-1  
+सम्पुटमु- 1-143
 </details>
 
 <details open><summary>मूलम्</summary>

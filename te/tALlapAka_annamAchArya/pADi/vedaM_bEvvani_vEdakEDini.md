@@ -2,14 +2,15 @@
 title = "वेदं बॆव्वनि वॆदकॆडिनि"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "पाडि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=5&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 पाडि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 1-5  
-सम्पुटमु - 1-5
+रेकु- 1-5  
+सम्पुटमु- 1-5
 </details>
 
 <details open><summary>मूलम्</summary>

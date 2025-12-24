@@ -1,15 +1,16 @@
 +++
-"title" = "तोरणमुले दोवॆल्ला"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "आहिरि"
+title = "तोरणमुले दोवॆल्ला"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "आहिरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=119&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 आहिरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 20-1  
-सम्पुटमु - 1-119
+रेकु- 20-1  
+सम्पुटमु- 1-119
 </details>
 
 <details open><summary>मूलम्</summary>

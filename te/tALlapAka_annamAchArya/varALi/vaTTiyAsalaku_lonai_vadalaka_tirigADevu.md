@@ -1,15 +1,16 @@
 +++
-"title" = "वट्टियासलकु लोनै वदलक तिरिगाडेवु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "वराळि"
+title = "वट्टियासलकु लोनै वदलक तिरिगाडेवु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "वराळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=184&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 वराळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 30-3  
-सम्पुटमु - 1-184
+रेकु- 30-3  
+सम्पुटमु- 1-184
 </details>
 
 <details open><summary>मूलम्</summary>

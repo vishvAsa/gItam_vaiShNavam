@@ -1,15 +1,16 @@
 +++
-"title" = "पनिलेनि धनवाञ्छँ बडि पॊरलिन निट्टि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "शङ्कराभरणं"
+title = "पनिलेनि धनवाञ्छँ बडि पॊरलिन निट्टि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "शङ्कराभरणं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=150&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 शङ्कराभरणं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 25-2  
-सम्पुटमु - 1-150
+रेकु- 25-2  
+सम्पुटमु- 1-150
 </details>
 
 <details open><summary>मूलम्</summary>

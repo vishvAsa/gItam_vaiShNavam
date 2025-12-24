@@ -2,14 +2,15 @@
 title = "तन कर्मवशं बिञ्चुक, दैवकृतं बॊकयिञ्चुक,"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "कन्नडगौळ"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=65&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 कन्नडगौळ  
 अध्यात्म सङ्कीर्तन  
-रेकु - 10-5  
-सम्पुटमु - 1-65
+रेकु- 10-5  
+सम्पुटमु- 1-65
 </details>
 
 <details open><summary>मूलम्</summary>

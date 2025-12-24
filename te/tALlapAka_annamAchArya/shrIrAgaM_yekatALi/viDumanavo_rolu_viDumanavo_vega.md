@@ -2,14 +2,15 @@
 title = "विडुमनवो रोलु विडुमनवो वेग"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "श्रीरागं, येकताळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=57&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 श्रीरागं, येकताळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 9-3  
-सम्पुटमु - 1-57
+रेकु- 9-3  
+सम्पुटमु- 1-57
 </details>
 
 <details open><summary>मूलम्</summary>

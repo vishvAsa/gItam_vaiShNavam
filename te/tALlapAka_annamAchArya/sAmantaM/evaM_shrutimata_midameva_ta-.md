@@ -2,14 +2,15 @@
 title = "एवं श्रुतिमत मिदमेव त-"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "सामन्तं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=4&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 सामन्तं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 1-4  
-सम्पुटमु - 1-4  
+रेकु- 1-4  
+सम्पुटमु- 1-4  
 संस्कृतकीर्तन
 </details>
 

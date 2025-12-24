@@ -1,7 +1,8 @@
 +++
-"title" = "मनुजुँडै पुट्टि मनुजुनि सेविञ्चि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "सामन्तं  \n[1]"
+title = "मनुजुँडै पुट्टि मनुजुनि सेविञ्चि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "सामन्तं  \n[1]"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=196&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
@@ -9,8 +10,8 @@
 सामन्तं  
 [1]  
 अध्यात्म सङ्कीर्तन  
-रेकु - 32-2  
-सम्पुटमु - 1-196
+रेकु- 32-2  
+सम्पुटमु- 1-196
 </details>
 
 <details open><summary>मूलम्</summary>

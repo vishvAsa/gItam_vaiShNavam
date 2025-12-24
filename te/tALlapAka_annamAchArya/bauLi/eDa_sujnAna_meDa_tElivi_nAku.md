@@ -2,14 +2,15 @@
 title = "एड सुज्ञान मेड तॆलिवि नाकु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "बौळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=48&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 बौळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 7-7  
-सम्पुटमु - 1-48
+रेकु- 7-7  
+सम्पुटमु- 1-48
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -1,15 +1,16 @@
 +++
-"title" = "वॆन्नवट्टुक नेयि वॆदकनेला मरियु-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "श्रीरागं"
+title = "वॆन्नवट्टुक नेयि वॆदकनेला मरियु-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "श्रीरागं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=202&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 श्रीरागं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 33-1  
-सम्पुटमु - 1-202
+रेकु- 33-1  
+सम्पुटमु- 1-202
 </details>
 
 <details open><summary>मूलम्</summary>

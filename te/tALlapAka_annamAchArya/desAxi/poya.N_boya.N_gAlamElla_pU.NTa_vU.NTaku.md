@@ -1,15 +1,16 @@
 +++
-"title" = "पोयँ बोयँ गालमॆल्ल पूँट वूँटकु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "देसाक्षि"
+title = "पोयँ बोयँ गालमॆल्ल पूँट वूँटकु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "देसाक्षि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=208&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 देसाक्षि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 34-1  
-सम्पुटमु - 1-208
+रेकु- 34-1  
+सम्पुटमु- 1-208
 </details>
 
 <details open><summary>मूलम्</summary>

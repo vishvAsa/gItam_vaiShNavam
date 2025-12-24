@@ -1,15 +1,16 @@
 +++
-"title" = "तन कर्ममॆन्त चेँतयु नन्ते"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"साळङ्गं" = "साळङ्गं"
+title = "तन कर्ममॆन्त चेँतयु नन्ते"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "साळङ्गं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=213&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 साळङ्गं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 34-6  
-सम्पुटमु - 1-213
+रेकु- 34-6  
+सम्पुटमु- 1-213
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -1,15 +1,16 @@
 +++
-"title" = "ऎक्कडि दुरवस्थ लेँटिदेहमु लोनँ"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "ललित"
+title = "ऎक्कडि दुरवस्थ लेँटिदेहमु लोनँ"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "ललित"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=106&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 ललित  
 अध्यात्म सङ्कीर्तन  
-रेकु - 17-6  
-सम्पुटमु - 1-106
+रेकु- 17-6  
+सम्पुटमु- 1-106
 </details>
 
 <details open><summary>मूलम्</summary>

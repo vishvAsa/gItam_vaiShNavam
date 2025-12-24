@@ -1,15 +1,16 @@
 +++
-"title" = "एँटिकि नॆव्वरिपॊन्दु यिस्सिरो चीची"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "पाडि"
+title = "एँटिकि नॆव्वरिपॊन्दु यिस्सिरो चीची"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "पाडि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=195&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 पाडि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 32-1  
-सम्पुटमु - 1-195
+रेकु- 32-1  
+सम्पुटमु- 1-195
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -2,14 +2,15 @@
 title = "पट्टवसमुगानि बालुँडा पॆनुँ-"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "भैरवि, रच्चॆताळं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=58&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 भैरवि, रच्चॆताळं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 9-4  
-सम्पुटमु - 1-58
+रेकु- 9-4  
+सम्पुटमु- 1-58
 </details>
 
 <details open><summary>मूलम्</summary>

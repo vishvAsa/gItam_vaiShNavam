@@ -1,15 +1,16 @@
 +++
-"title" = "मोसमुन मायाविमोहितुँडै पोयि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "मुखारि"
+title = "मोसमुन मायाविमोहितुँडै पोयि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "मुखारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=159&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 मुखारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 26-4  
-सम्पुटमु - 1-159
+रेकु- 26-4  
+सम्पुटमु- 1-159
 </details>
 
 <details open><summary>मूलम्</summary>

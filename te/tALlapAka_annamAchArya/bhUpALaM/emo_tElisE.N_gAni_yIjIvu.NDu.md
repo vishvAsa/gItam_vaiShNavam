@@ -1,15 +1,16 @@
 +++
-"title" = "एमो तॆलिसॆँ गानि यीजीवुँडु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "भूपाळं"
+title = "एमो तॆलिसॆँ गानि यीजीवुँडु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "भूपाळं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=123&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 भूपाळं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 20-5  
-सम्पुटमु - 1-123
+रेकु- 20-5  
+सम्पुटमु- 1-123
 </details>
 
 <details open><summary>मूलम्</summary>

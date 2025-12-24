@@ -1,15 +1,16 @@
 +++
-"title" = "पारकुमी वोमनसा पन्तमु विडुवकुमी मनसा"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "आहिरि"
+title = "पारकुमी वोमनसा पन्तमु विडुवकुमी मनसा"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "आहिरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=188&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 आहिरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 31-1  
-सम्पुटमु - 1-188
+रेकु- 31-1  
+सम्पुटमु- 1-188
 </details>
 
 <details open><summary>मूलम्</summary>

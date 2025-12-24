@@ -1,15 +1,16 @@
 +++
-"title" = "ऎन्त मानुमन्नँ जिन्तलेल मानुने"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "मुखारि"
+title = "ऎन्त मानुमन्नँ जिन्तलेल मानुने"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "मुखारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=204&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 मुखारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 33-3  
-सम्पुटमु - 1-204
+रेकु- 33-3  
+सम्पुटमु- 1-204
 </details>
 
 <details open><summary>मूलम्</summary>

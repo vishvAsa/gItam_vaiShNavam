@@ -1,7 +1,8 @@
 +++
-"title" = "अप्पुलेनि संसार मैन पाटे चालु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "गुज्जरि  \n[1]"
+title = "अप्पुलेनि संसार मैन पाटे चालु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "गुज्जरि  \n[1]"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=114&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
@@ -9,8 +10,8 @@
 गुज्जरि  
 [1]  
 अध्यात्म सङ्कीर्तन  
-रेकु - 19-2  
-सम्पुटमु - 1-114
+रेकु- 19-2  
+सम्पुटमु- 1-114
 </details>
 
 <details open><summary>मूलम्</summary>

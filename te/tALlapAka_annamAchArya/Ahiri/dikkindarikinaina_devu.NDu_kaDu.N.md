@@ -1,15 +1,16 @@
 +++
-"title" = "दिक्किन्दरिकिनैन देवुँडु कडुँ"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "आहिरि"
+title = "दिक्किन्दरिकिनैन देवुँडु कडुँ"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "आहिरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=111&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 आहिरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 18-5  
-सम्पुटमु - 1-111
+रेकु- 18-5  
+सम्पुटमु- 1-111
 </details>
 
 <details open><summary>मूलम्</summary>

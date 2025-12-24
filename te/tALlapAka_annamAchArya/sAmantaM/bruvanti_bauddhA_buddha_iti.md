@@ -1,15 +1,16 @@
 +++
-"title" = "ब्रुवन्ति बौद्धा बुद्ध इति"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "सामन्तं"
+title = "ब्रुवन्ति बौद्धा बुद्ध इति"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "सामन्तं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=164&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 सामन्तं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 27-3  
-सम्पुटमु - 1-164  
+रेकु- 27-3  
+सम्पुटमु- 1-164  
 संस्कृतकीर्तन
 </details>
 

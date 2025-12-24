@@ -2,14 +2,15 @@
 title = "दैवकृतम्बट चेँतट तन कर्माधीनम्बट"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "कन्नडगौळ"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=79&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 कन्नडगौळ  
 अध्यात्म सङ्कीर्तन  
-रेकु - 13-3  
-सम्पुटमु - 1-79
+रेकु- 13-3  
+सम्पुटमु- 1-79
 </details>
 
 <details open><summary>मूलम्</summary>

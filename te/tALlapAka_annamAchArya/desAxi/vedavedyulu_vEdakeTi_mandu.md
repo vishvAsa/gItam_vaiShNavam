@@ -2,14 +2,15 @@
 title = "वेदवेद्युलु वॆदकेटि मन्दु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "देसाक्षि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=2&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 देसाक्षि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 1-2  
-सम्पुटमु - 1-2
+रेकु- 1-2  
+सम्पुटमु- 1-2
 </details>
 
 <details open><summary>मूलम्</summary>

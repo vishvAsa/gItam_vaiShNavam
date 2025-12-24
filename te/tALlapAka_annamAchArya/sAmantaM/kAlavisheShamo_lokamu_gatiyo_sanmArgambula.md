@@ -2,14 +2,15 @@
 title = "कालविशेषमो लोकमु गतियो सन्मार्गम्बुल"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "सामन्तं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=63&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 सामन्तं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 10-3  
-सम्पुटमु - 1-63
+रेकु- 10-3  
+सम्पुटमु- 1-63
 </details>
 
 <details open><summary>मूलम्</summary>

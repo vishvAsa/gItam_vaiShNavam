@@ -1,15 +1,16 @@
 +++
-"title" = "इन्निलागुल चेतु लिविय पो कडु-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "आहिरि"
+title = "इन्निलागुल चेतु लिविय पो कडु-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "आहिरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=166&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 आहिरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 27-5  
-सम्पुटमु - 1-166
+रेकु- 27-5  
+सम्पुटमु- 1-166
 </details>
 
 <details open><summary>मूलम्</summary>

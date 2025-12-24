@@ -1,15 +1,16 @@
 +++
-"title" = "वासिवन्तु विडिचिनवाँडे योगि, यी"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "साळङ्गनाट"
+title = "वासिवन्तु विडिचिनवाँडे योगि, यी"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "साळङ्गनाट"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=167&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 साळङ्गनाट  
 अध्यात्म सङ्कीर्तन  
-रेकु - 27-6  
-सम्पुटमु - 1-167
+रेकु- 27-6  
+सम्पुटमु- 1-167
 </details>
 
 <details open><summary>मूलम्</summary>

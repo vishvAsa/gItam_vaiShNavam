@@ -2,14 +2,15 @@
 title = "ऎन्त चदिविन नेमि विनिन तन"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "सामन्तं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=62&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 सामन्तं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 10-2  
-सम्पुटमु - 1-62
+रेकु- 10-2  
+सम्पुटमु- 1-62
 </details>
 
 <details open><summary>मूलम्</summary>

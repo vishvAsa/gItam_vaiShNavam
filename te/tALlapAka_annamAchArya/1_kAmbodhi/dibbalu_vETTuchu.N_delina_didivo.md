@@ -2,6 +2,7 @@
 title = "दिब्बलु वॆट्टुचुँ देलिन दिदिवो"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "[1]  \nकाम्बोधि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=16&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
@@ -9,8 +10,8 @@ raaga = "[1]  \nकाम्बोधि"
 [1]  
 काम्बोधि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 3-3  
-सम्पुटमु - 1-16
+रेकु- 3-3  
+सम्पुटमु- 1-16
 </details>
 
 <details open><summary>मूलम्</summary>

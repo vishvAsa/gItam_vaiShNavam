@@ -2,14 +2,15 @@
 title = "निन्नुँ दलँचि नीपेरु दलँचि"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "देसाक्षि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=27&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 देसाक्षि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 4-7  
-सम्पुटमु - 1-27
+रेकु- 4-7  
+सम्पुटमु- 1-27
 </details>
 
 <details open><summary>मूलम्</summary>

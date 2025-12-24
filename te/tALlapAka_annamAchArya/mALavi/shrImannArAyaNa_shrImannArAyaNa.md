@@ -1,15 +1,16 @@
 +++
-"title" = "श्रीमन्नारायण श्रीमन्नारायण"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "माळवि"
+title = "श्रीमन्नारायण श्रीमन्नारायण"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "माळवि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=155&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 माळवि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 25-7  
-सम्पुटमु - 1-155
+रेकु- 25-7  
+सम्पुटमु- 1-155
 </details>
 
 <details open><summary>मूलम्</summary>

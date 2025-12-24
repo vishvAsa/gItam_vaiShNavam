@@ -1,15 +1,16 @@
 +++
-"title" = "ई भवमुनकुँ जूड नेदि गडपल तनदु-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "श्रीरागं"
+title = "ई भवमुनकुँ जूड नेदि गडपल तनदु-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "श्रीरागं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=185&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 श्रीरागं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 30-4  
-सम्पुटमु - 1-185
+रेकु- 30-4  
+सम्पुटमु- 1-185
 </details>
 
 <details open><summary>मूलम्</summary>

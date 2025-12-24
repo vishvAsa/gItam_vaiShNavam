@@ -2,14 +2,15 @@
 title = "नी कथामृतमु निरत सेवन नाकु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "भूपाळं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=54&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 भूपाळं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 8-6  
-सम्पुटमु - 1-54
+रेकु- 8-6  
+सम्पुटमु- 1-54
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -2,14 +2,15 @@
 title = "तीपनुचु चेँदु तॆगँ दिनि वॆनकँ बडरानि-"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "बौळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=39&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 बौळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 6-4  
-सम्पुटमु - 1-39
+रेकु- 6-4  
+सम्पुटमु- 1-39
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -1,15 +1,16 @@
 +++
-"title" = "चूडुँ डिन्दरिकि सुलभुँडु हरि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "भैरवि"
+title = "चूडुँ डिन्दरिकि सुलभुँडु हरि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "भैरवि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=117&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 भैरवि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 19-5  
-सम्पुटमु - 1-117
+रेकु- 19-5  
+सम्पुटमु- 1-117
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -1,15 +1,16 @@
 +++
-"title" = "पुडमि निन्दरि बट्टॆ भूतमु कडुँ-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "वराळि"
+title = "पुडमि निन्दरि बट्टॆ भूतमु कडुँ-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "वराळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=109&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 वराळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 18-3  
-सम्पुटमु - 1-109
+रेकु- 18-3  
+सम्पुटमु- 1-109
 </details>
 
 <details open><summary>मूलम्</summary>

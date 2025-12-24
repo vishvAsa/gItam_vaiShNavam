@@ -2,14 +2,15 @@
 title = "सन्दडि विडुवुमु सासमुखा"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "धन्नासि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=12&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 धन्नासि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 2-6  
-सम्पुटमु - 1-12
+रेकु- 2-6  
+सम्पुटमु- 1-12
 </details>
 
 <details open><summary>मूलम्</summary>

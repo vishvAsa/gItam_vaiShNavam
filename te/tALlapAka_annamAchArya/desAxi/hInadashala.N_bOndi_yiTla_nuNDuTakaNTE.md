@@ -2,14 +2,15 @@
 title = "हीनदशलँ बॊन्दि यिट्ल नुण्डुटकण्टॆ"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "देसाक्षि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=3&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 देसाक्षि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 1-3  
-सम्पुटमु - 1-3
+रेकु- 1-3  
+सम्पुटमु- 1-3
 </details>
 
 <details open><summary>मूलम्</summary>

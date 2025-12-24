@@ -1,15 +1,16 @@
 +++
-"title" = "कललोनि सुखमे कलियुगमा, वॆन्न"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "सामन्तं"
+title = "कललोनि सुखमे कलियुगमा, वॆन्न"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "सामन्तं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=118&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 सामन्तं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 19-6  
-सम्पुटमु - 1-118
+रेकु- 19-6  
+सम्पुटमु- 1-118
 </details>
 
 <details open><summary>मूलम्</summary>
