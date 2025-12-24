@@ -1,15 +1,16 @@
 +++
-"title" = "वेसरिति मॆट्ल नीवॆण्टँ दिरिगि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "देसाक्षि"
+title = "वेसरिति मॆट्ल नीवॆण्टँ दिरिगि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "देसाक्षि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=231&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 देसाक्षि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 38-1  
-सम्पुटमु - 1-231
+रेकु- 38-1  
+सम्पुटमु- 1-231
 </details>
 
 <details open><summary>मूलम्</summary>

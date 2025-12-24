@@ -1,15 +1,16 @@
 +++
-"title" = "अदॆ चूडु तिरुवेङ्कटाद्रि नालुगु युगमु-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "मलहरि"
+title = "अदॆ चूडु तिरुवेङ्कटाद्रि नालुगु युगमु-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "मलहरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=227&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 मलहरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 37-1  
-सम्पुटमु - 1-227
+रेकु- 37-1  
+सम्पुटमु- 1-227
 </details>
 
 <details open><summary>मूलम्</summary>

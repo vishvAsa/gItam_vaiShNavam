@@ -1,15 +1,16 @@
 +++
-"title" = "तनवारलु पॆरवारलुँ दाननियॆडिवाँ डॆव्वँडु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "आहिरि"
+title = "तनवारलु पॆरवारलुँ दाननियॆडिवाँ डॆव्वँडु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "आहिरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=229&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 आहिरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 37-3  
-सम्पुटमु - 1-229
+रेकु- 37-3  
+सम्पुटमु- 1-229
 </details>
 
 <details open><summary>मूलम्</summary>

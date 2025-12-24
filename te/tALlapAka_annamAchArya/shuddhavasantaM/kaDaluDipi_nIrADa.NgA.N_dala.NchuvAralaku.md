@@ -1,15 +1,16 @@
 +++
-"title" = "कडलुडिपि नीराडँगाँ दलँचुवारलकु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "शुद्धवसन्तं"
+title = "कडलुडिपि नीराडँगाँ दलँचुवारलकु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "शुद्धवसन्तं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=226&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 शुद्धवसन्तं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 36-7  
-सम्पुटमु - 1-226
+रेकु- 36-7  
+सम्पुटमु- 1-226
 </details>
 
 <details open><summary>मूलम्</summary>

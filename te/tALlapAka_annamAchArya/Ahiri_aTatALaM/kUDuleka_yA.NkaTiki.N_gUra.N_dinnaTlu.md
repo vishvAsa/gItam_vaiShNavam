@@ -1,15 +1,16 @@
 +++
-"title" = "कूडुलेक याँकटिकिँ गूरँ दिन्नट्लु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "आहिरि, अटताळं"
+title = "कूडुलेक याँकटिकिँ गूरँ दिन्नट्लु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "आहिरि, अटताळं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=234&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 आहिरि, अटताळं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 38-4  
-सम्पुटमु - 1-234
+रेकु- 38-4  
+सम्पुटमु- 1-234
 </details>
 
 <details open><summary>मूलम्</summary>

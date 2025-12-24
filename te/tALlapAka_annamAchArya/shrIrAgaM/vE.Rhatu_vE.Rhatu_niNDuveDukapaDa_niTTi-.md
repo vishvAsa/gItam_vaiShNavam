@@ -1,15 +1,16 @@
 +++
-"title" = "वॆऱतु वॆऱतु निण्डुवेडुकपड निट्टि-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "श्रीरागं"
+title = "वॆऱतु वॆऱतु निण्डुवेडुकपड निट्टि-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "श्रीरागं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=235&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 श्रीरागं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 38-5  
-सम्पुटमु - 1-235
+रेकु- 38-5  
+सम्पुटमु- 1-235
 </details>
 
 <details open><summary>मूलम्</summary>

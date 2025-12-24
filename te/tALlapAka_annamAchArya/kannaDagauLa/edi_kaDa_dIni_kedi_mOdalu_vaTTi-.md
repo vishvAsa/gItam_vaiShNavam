@@ -1,15 +1,16 @@
 +++
-"title" = "एदि कड दीनि केदि मॊदलु । वट्टि-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "कन्नडगौळ"
+title = "एदि कड दीनि केदि मॊदलु । वट्टि-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "कन्नडगौळ"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=225&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 कन्नडगौळ  
 अध्यात्म सङ्कीर्तन  
-रेकु - 36-6  
-सम्पुटमु - 1-225
+रेकु- 36-6  
+सम्पुटमु- 1-225
 </details>
 
 <details open><summary>मूलम्</summary>

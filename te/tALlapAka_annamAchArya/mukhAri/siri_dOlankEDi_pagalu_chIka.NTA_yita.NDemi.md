@@ -1,15 +1,16 @@
 +++
-"title" = "सिरि दॊलङ्कॆडि पगलु चीकँटा यितँडेमि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "मुखारि"
+title = "सिरि दॊलङ्कॆडि पगलु चीकँटा यितँडेमि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "मुखारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=228&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 मुखारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 37-2  
-सम्पुटमु - 1-228
+रेकु- 37-2  
+सम्पुटमु- 1-228
 </details>
 
 <details open><summary>मूलम्</summary>

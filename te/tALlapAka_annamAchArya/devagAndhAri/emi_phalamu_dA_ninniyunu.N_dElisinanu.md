@@ -1,15 +1,16 @@
 +++
-"title" = "एमि फलमु दा निन्नियुनुँ दॆलिसिननु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "देवगान्धारि"
+title = "एमि फलमु दा निन्नियुनुँ दॆलिसिननु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "देवगान्धारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=236&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 देवगान्धारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 38-6  
-सम्पुटमु - 1-236
+रेकु- 38-6  
+सम्पुटमु- 1-236
 </details>
 
 <details open><summary>मूलम्</summary>

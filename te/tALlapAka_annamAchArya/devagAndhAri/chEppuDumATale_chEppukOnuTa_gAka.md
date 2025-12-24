@@ -1,15 +1,16 @@
 +++
-"title" = "चॆप्पुडुमाटले चॆप्पुकॊनुट गाक"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "देवगान्धारि"
+title = "चॆप्पुडुमाटले चॆप्पुकॊनुट गाक"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "देवगान्धारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=230&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 देवगान्धारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 37-4  
-सम्पुटमु - 1-230
+रेकु- 37-4  
+सम्पुटमु- 1-230
 </details>
 
 <details open><summary>मूलम्</summary>

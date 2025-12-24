@@ -1,15 +1,16 @@
 +++
-"title" = "ऎव्वरिकैननु यीव्राँत । ननु"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "मुखारि"
+title = "ऎव्वरिकैननु यीव्राँत । ननु"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "मुखारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=233&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 मुखारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 38-3  
-सम्पुटमु - 1-233
+रेकु- 38-3  
+सम्पुटमु- 1-233
 </details>
 
 <details open><summary>मूलम्</summary>
