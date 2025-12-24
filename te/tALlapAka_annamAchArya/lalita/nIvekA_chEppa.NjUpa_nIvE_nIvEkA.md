@@ -1,15 +1,16 @@
 +++
-"title" = "नीवेका चॆप्पँजूप नीवॆ नीवॆका"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "ललित"
+title = "नीवेका चॆप्पँजूप नीवॆ नीवॆका"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "ललित"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=255&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 ललित  
 अध्यात्म सङ्कीर्तन  
-रेकु - 42-1  
-सम्पुटमु - 1-255
+रेकु- 42-1  
+सम्पुटमु- 1-255
 </details>
 
 <details open><summary>मूलम्</summary>

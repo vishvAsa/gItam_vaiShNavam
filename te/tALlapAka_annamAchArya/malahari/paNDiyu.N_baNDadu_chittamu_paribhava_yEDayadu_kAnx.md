@@ -2,14 +2,15 @@
 title = "पण्डियुँ बण्डदु चित्तमु परिभव यॆडयदु काङ्क्षल"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "मलहरि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=274&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 मलहरि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 45-2  
-सम्पुटमु - 1-274
+रेकु- 45-2  
+सम्पुटमु- 1-274
 </details>
 
 <details open><summary>मूलम्</summary>

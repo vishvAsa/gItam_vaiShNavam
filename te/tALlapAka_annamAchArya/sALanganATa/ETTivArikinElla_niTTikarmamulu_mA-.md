@@ -2,14 +2,15 @@
 title = "ऎट्टिवारिकिनॆल्ल निट्टिकर्ममुलु मा-"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "साळङ्गनाट"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=277&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 साळङ्गनाट  
 अध्यात्म सङ्कीर्तन  
-रेकु - 45-5  
-सम्पुटमु - 1-277
+रेकु- 45-5  
+सम्पुटमु- 1-277
 </details>
 
 <details open><summary>मूलम्</summary>

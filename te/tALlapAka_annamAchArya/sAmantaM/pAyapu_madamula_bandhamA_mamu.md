@@ -2,14 +2,15 @@
 title = "पायपु मदमुल बन्धमा ममु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "सामन्तं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=238&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 सामन्तं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 39-2  
-सम्पुटमु - 1-238
+रेकु- 39-2  
+सम्पुटमु- 1-238
 </details>
 
 <details open><summary>मूलम्</summary>

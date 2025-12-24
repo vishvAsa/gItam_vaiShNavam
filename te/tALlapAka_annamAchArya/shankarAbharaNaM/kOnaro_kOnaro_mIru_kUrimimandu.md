@@ -2,14 +2,15 @@
 title = "कॊनरो कॊनरो मीरु कूरिमिमन्दु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "शङ्कराभरणं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=237&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 शङ्कराभरणं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 39-1  
-सम्पुटमु - 1-237
+रेकु- 39-1  
+सम्पुटमु- 1-237
 </details>
 
 <details open><summary>मूलम्</summary>

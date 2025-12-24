@@ -2,14 +2,15 @@
 title = "इतरुलकु निनु नॆऱँगँ दरमा"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "श्रीरागं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=252&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 श्रीरागं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 41-4  
-सम्पुटमु - 1-252
+रेकु- 41-4  
+सम्पुटमु- 1-252
 </details>
 
 <details open><summary>मूलम्</summary>

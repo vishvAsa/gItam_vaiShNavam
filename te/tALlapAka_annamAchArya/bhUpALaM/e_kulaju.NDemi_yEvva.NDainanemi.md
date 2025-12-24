@@ -2,14 +2,15 @@
 title = "ए कुलजुँडेमि यॆव्वँडैननेमि"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "भूपाळं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=292&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 भूपाळं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 47-7  
-सम्पुटमु - 1-292
+रेकु- 47-7  
+सम्पुटमु- 1-292
 </details>
 
 <details open><summary>मूलम्</summary>

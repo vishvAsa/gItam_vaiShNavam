@@ -2,14 +2,15 @@
 title = "सततविरक्तुँडु संसारि गाँडु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "कन्नडगौळ"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=272&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 कन्नडगौळ  
 अध्यात्म सङ्कीर्तन  
-रेकु - 44-5  
-सम्पुटमु - 1-272
+रेकु- 44-5  
+सम्पुटमु- 1-272
 </details>
 
 <details open><summary>मूलम्</summary>

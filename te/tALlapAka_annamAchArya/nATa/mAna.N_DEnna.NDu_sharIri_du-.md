@@ -1,15 +1,16 @@
 +++
-"title" = "मानँ डॆन्नँडु शरीरि दु-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "नाट"
+title = "मानँ डॆन्नँडु शरीरि दु-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "नाट"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=283&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 नाट  
 अध्यात्म सङ्कीर्तन  
-रेकु - 46-4  
-सम्पुटमु - 1-283
+रेकु- 46-4  
+सम्पुटमु- 1-283
 </details>
 
 <details open><summary>मूलम्</summary>

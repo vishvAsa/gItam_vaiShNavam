@@ -2,14 +2,15 @@
 title = "नमो नारायणाय नमः"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "श्रीरागं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=245&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 श्रीरागं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 40-3  
-सम्पुटमु - 1-245  
+रेकु- 40-3  
+सम्पुटमु- 1-245  
 संस्कृतकीर्तन
 </details>
 

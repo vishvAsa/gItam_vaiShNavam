@@ -2,14 +2,15 @@
 title = "चाल नॊव्वि सेयुनट्टि जन्ममेमि मरणमेमि"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "भैरवि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=297&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 भैरवि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 48-4  
-सम्पुटमु - 1-297
+रेकु- 48-4  
+सम्पुटमु- 1-297
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -1,15 +1,16 @@
 +++
-"title" = "अदि ना यपराधमिदि ना यपराध-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "माळवि"
+title = "अदि ना यपराधमिदि ना यपराध-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "माळवि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=271&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 माळवि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 44-4  
-सम्पुटमु - 1-271
+रेकु- 44-4  
+सम्पुटमु- 1-271
 </details>
 
 <details open><summary>मूलम्</summary>

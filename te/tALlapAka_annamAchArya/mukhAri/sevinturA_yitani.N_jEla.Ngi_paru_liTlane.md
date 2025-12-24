@@ -1,15 +1,16 @@
 +++
 title = "सेविन्तुरा यितनिँ जॆलँगि परु; लिट्लने"
 composer = "ताळ्लपाक अन्नमाचार्य"
-मुखारि = "मुखारि"
+raaga = "मुखारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=293&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 मुखारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 48-1  
-सम्पुटमु - 1-293
+रेकु- 48-1  
+सम्पुटमु- 1-293
 </details>
 
 <details open><summary>मूलम्</summary>

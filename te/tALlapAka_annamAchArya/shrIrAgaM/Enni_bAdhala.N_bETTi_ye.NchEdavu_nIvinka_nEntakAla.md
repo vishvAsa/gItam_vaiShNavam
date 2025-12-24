@@ -2,14 +2,15 @@
 title = "ऎन्नि बाधलँ बॆट्टि येँचॆदवु नीविङ्क नॆन्तकालमुदाँकँ गर्ममा"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "श्रीरागं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=284&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 श्रीरागं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 46-5  
-सम्पुटमु - 1-284
+रेकु- 46-5  
+सम्पुटमु- 1-284
 </details>
 
 <details open><summary>मूलम्</summary>

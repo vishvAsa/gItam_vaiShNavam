@@ -2,14 +2,15 @@
 title = "तॆल्लवारनिय्यरो तॆरुवु यी-"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "काम्बोदि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=244&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 काम्बोदि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 40-2  
-सम्पुटमु - 1-244
+रेकु- 40-2  
+सम्पुटमु- 1-244
 </details>
 
 <details open><summary>मूलम्</summary>

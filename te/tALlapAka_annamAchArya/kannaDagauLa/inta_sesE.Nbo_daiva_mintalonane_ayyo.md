@@ -2,14 +2,15 @@
 title = "इन्त सेसॆँबो दैव मिन्तलोनने अय्यो"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "कन्नडगौळ"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=282&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 कन्नडगौळ  
 अध्यात्म सङ्कीर्तन  
-रेकु - 46-3  
-सम्पुटमु - 1-282
+रेकु- 46-3  
+सम्पुटमु- 1-282
 </details>
 
 <details open><summary>मूलम्</summary>

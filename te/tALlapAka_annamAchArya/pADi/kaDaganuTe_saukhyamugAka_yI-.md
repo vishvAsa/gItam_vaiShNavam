@@ -1,15 +1,16 @@
 +++
-"title" = "कडगनुटे सौख्यमुगाक यी-"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "पाडि"
+title = "कडगनुटे सौख्यमुगाक यी-"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "पाडि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=260&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 पाडि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 42-6  
-सम्पुटमु - 1-260
+रेकु- 42-6  
+सम्पुटमु- 1-260
 </details>
 
 <details open><summary>मूलम्</summary>

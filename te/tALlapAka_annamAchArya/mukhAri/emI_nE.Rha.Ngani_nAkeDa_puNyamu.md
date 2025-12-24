@@ -1,15 +1,16 @@
 +++
 title = "एमी नॆऱँगनि नाकेड पुण्यमु"
 composer = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "मुखारि"
+raaga = "मुखारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=286&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 मुखारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 47-1  
-सम्पुटमु - 1-286
+रेकु- 47-1  
+सम्पुटमु- 1-286
 </details>
 
 <details open><summary>मूलम्</summary>

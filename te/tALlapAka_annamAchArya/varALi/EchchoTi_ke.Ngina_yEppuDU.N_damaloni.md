@@ -1,15 +1,16 @@
 +++
-"title" = "ऎच्चोटि केँगिन यॆप्पुडूँ दमलोनि"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "वराळि"
+title = "ऎच्चोटि केँगिन यॆप्पुडूँ दमलोनि"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "वराळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=273&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 वराळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 45-1  
-सम्पुटमु - 1-273
+रेकु- 45-1  
+सम्पुटमु- 1-273
 </details>
 
 <details open><summary>मूलम्</summary>

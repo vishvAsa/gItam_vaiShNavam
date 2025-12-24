@@ -2,14 +2,15 @@
 title = "नी महत्त्वम्बु लोनिकिँ वॆलुपलिकिँ गप्पि"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "कन्नडगौळ"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=270&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 कन्नडगौळ  
 अध्यात्म सङ्कीर्तन  
-रेकु - 44-3  
-सम्पुटमु - 1-270
+रेकु- 44-3  
+सम्पुटमु- 1-270
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -1,15 +1,16 @@
 +++
 title = "अन्निचोट्लँ परमात्म नीवु"
 composer = "ताळ्लपाक अन्नमाचार्य"
-मुखारि = "मुखारि"
+raaga = "मुखारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=278&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 मुखारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 45-6  
-सम्पुटमु - 1-278
+रेकु- 45-6  
+सम्पुटमु- 1-278
 </details>
 
 <details open><summary>मूलम्</summary>

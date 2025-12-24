@@ -2,14 +2,15 @@
 title = "सॊगियुना मऱियु मुच्चुकुँ बण्डुवॆन्नॆललु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "बौळि, जम्पॆताळं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=242&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 बौळि, जम्पॆताळं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 39-6  
-सम्पुटमु - 1-242
+रेकु- 39-6  
+सम्पुटमु- 1-242
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -2,14 +2,15 @@
 title = "तॊक्कनिचोट्लु दॊक्कॆडि मनसु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "सामन्तं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=276&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 सामन्तं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 45-4  
-सम्पुटमु - 1-276
+रेकु- 45-4  
+सम्पुटमु- 1-276
 </details>
 
 <details open><summary>मूलम्</summary>

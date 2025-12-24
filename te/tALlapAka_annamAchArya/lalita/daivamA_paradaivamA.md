@@ -1,15 +1,16 @@
 +++
-"title" = "दैवमा परदैवमा"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "ललित"
+title = "दैवमा परदैवमा"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "ललित"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=291&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 ललित  
 अध्यात्म सङ्कीर्तन  
-रेकु - 47-6  
-सम्पुटमु - 1-291
+रेकु- 47-6  
+सम्पुटमु- 1-291
 </details>
 
 <details open><summary>मूलम्</summary>

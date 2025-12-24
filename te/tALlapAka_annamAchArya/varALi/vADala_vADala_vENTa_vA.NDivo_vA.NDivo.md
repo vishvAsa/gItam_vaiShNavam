@@ -2,14 +2,15 @@
 title = "वाडल वाडल वॆण्ट वाँडिवो वाँडिवो"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "वराळि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=275&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 वराळि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 45-3  
-सम्पुटमु - 1-275
+रेकु- 45-3  
+सम्पुटमु- 1-275
 </details>
 
 <details open><summary>मूलम्</summary>

@@ -2,14 +2,15 @@
 title = "निगमनिगमान्तवर्णित मनोहररूप"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "सामन्तं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=243&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 सामन्तं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 40-1  
-सम्पुटमु - 1-243
+रेकु- 40-1  
+सम्पुटमु- 1-243
 </details>
 
 <details open><summary>मूलम्</summary>

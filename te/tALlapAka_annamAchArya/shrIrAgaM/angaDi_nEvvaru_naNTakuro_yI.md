@@ -2,14 +2,15 @@
 title = "अङ्गडि नॆव्वरु नण्टकुरो यी"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "श्रीरागं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=241&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 श्रीरागं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 39-5  
-सम्पुटमु - 1-241
+रेकु- 39-5  
+सम्पुटमु- 1-241
 </details>
 
 <details open><summary>मूलम्</summary>

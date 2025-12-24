@@ -1,15 +1,16 @@
 +++
-"title" = "बलुवगुँ दनरूपमु चूपॆन्"
-"composer" = "ताळ्लपाक अन्नमाचार्य"
-"raaga" = "पाडि"
+title = "बलुवगुँ दनरूपमु चूपॆन्"
+composer = "ताळ्लपाक अन्नमाचार्य"
+raaga = "पाडि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=295&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 पाडि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 48-3  
-सम्पुटमु - 1-295
+रेकु- 48-3  
+सम्पुटमु- 1-295
 </details>
 
 <details open><summary>मूलम्</summary>

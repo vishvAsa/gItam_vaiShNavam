@@ -2,14 +2,15 @@
 title = "आदिदेव परमातुमा"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "देवगान्धारि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=289&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 देवगान्धारि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 47-4  
-सम्पुटमु - 1-289
+रेकु- 47-4  
+सम्पुटमु- 1-289
 </details>
 
 <details open><summary>मूलम्</summary>

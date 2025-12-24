@@ -2,14 +2,15 @@
 title = "आदिमुनुल सिद्धाञ्जनमु"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "धन्नासि"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=261&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 धन्नासि  
 अध्यात्म सङ्कीर्तन  
-रेकु - 43-1  
-सम्पुटमु - 1-261
+रेकु- 43-1  
+सम्पुटमु- 1-261
 </details>
 
 <details open><summary>मूलम्</summary>

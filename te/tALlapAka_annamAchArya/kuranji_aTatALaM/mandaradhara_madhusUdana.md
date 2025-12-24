@@ -2,14 +2,15 @@
 title = "मन्दरधर मधुसूदन"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "कुरञ्जि, अटताळं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=267&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 कुरञ्जि, अटताळं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 43-7  
-सम्पुटमु - 1-267  
+रेकु- 43-7  
+सम्पुटमु- 1-267  
 संस्कृतकीर्तन
 </details>
 

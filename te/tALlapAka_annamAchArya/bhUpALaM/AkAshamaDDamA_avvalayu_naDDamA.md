@@ -2,14 +2,15 @@
 title = "आकाशमड्डमा अव्वलयु नड्डमा"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "भूपाळं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=288&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 भूपाळं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 47-3  
-सम्पुटमु - 1-288
+रेकु- 47-3  
+सम्पुटमु- 1-288
 </details>
 
 <details open><summary>मूलम्</summary>

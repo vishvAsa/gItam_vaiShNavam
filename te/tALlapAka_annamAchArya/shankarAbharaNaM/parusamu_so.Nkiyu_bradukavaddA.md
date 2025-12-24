@@ -2,14 +2,15 @@
 title = "परुसमु सोँकियु ब्रदुकवद्दा"
 composer = "ताळ्लपाक अन्नमाचार्य"
 raaga = "शङ्कराभरणं"
+upstream_url = "https://www.andhrabharati.com/kIrtanalu/annamayya/kirtana.php?id=280&dispScript=uc:de"
 +++
 <details><summary>अधिगीतम्</summary>
 
 ताळ्लपाक अन्नमाचार्य  
 शङ्कराभरणं  
 अध्यात्म सङ्कीर्तन  
-रेकु - 46-1  
-सम्पुटमु - 1-280
+रेकु- 46-1  
+सम्पुटमु- 1-280
 </details>
 
 <details open><summary>मूलम्</summary>
