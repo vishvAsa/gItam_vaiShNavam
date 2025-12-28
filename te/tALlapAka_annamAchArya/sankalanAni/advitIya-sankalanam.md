@@ -1,9 +1,9 @@
 +++
 title = "अद्वितीय-सङ्कलनम्"
 +++
-Sree Tallapaka
-Annamacharya Sankirtanas
-
+II Srimathe Ramanujaya Namaha II  
+Sree Tallapaka  
+Annamacharya Sankirtanas  
 1  
 नित्यात्मुडै यण्डि नित्युडै  
 Nityātmuḍai Yuṇḍi Nityuḍai  
@@ -16,7 +16,7 @@ Nityātmuḍai Yuṇḍi Nityuḍai
 डेमूर्ति निजमोक्ष मिय्यजालॆडु नात  
 डेमूर्ति लोकैकहितुडु  
 एमूर्ति निजमूर्ति येमूर्तियनुगाडु  
-येमूर्ति त्रैमूर्तु लेकमैन यूत  
+येमूर्ति त्रैमूर्तु लेकमैन यात  
 डेमूर्ति सर्वात्मु डेमूर्ति परमात्मु  
 डामूर्ति तिरुवेङ्कटाद्रि विभुडु॥॥नित्या॥  
 ए देवु देहमुन निन्नियनु जन्मिञ्चॆ  
@@ -145,7 +145,7 @@ rejoices thus, that Narayana Himself is this Supreme Lord of Venkata!
 देवरवैति  
  Dēvaravaiti  
 देवरवैति विन्निटा देवुलायॆनापॆ नीकु  
-आवल मिम्मिद्दरि नेमनि पॊगडेमय्यू ॥॥देवर ॥  
+आवल मिम्मिद्दरि नेमनि पॊगडेमय्या ॥॥देवर ॥  
 पुन्नम वॆन्नॆलजोडु पूवुललोन वासन  
 उन्नति मीरि नी पुरमॆक्कॆनु  
 मन्नन सम्पदराशि मदनुनि पुट्टिनिल्लु  
@@ -195,7 +195,7 @@ As she joined You, Your prosperity dazzled in effulgence!
 पिक्कटिल्ल वॆलुगॊन्दे पॆनुदैवमु  
 पक्कननु तनलोनि पदुनालुगुलोकालु  
 तॊक्कि पादानगॊलचेदॊड्डदैवमु ॥॥ वाडॆ ॥  
-वेदशास्ता्रलु नुतिञ्चि वेसरि कानगलेनि -  
+वेदशास्त्रालु नुतिञ्चि वेसरि कानगलेनि -  
 मोदपु पॆक्कुगुणाल मूलदैवमु  
 पोदि देवतलनॆल्ल पुट्टिञ्च रक्षिञ्च  
 आदिकारणम्बैन अजुगन्न दैवमु ॥॥ वाडॆ ॥  
@@ -286,7 +286,7 @@ Vandē Vāsudēvaṃ
 चन्दनाङ्कितलसच्चारुदेहं  
 मन्दारमालिकामकुटसंशोभितं  
 कन्दर्पजनक मरविन्दनाभम् ॥॥ वन्दे ॥  
-धगधगितकौस्तुभा धरण वक्षस्स्थलं  
+धगधगितकौस्तुभा धरण वक्षस्थलं  
 खगराजवाहनं कमलनयनं  
 निगमाधिसेवितं निजरूपशेषप -  
 न्नगराजशायिनं घननिवासम् ॥॥ वन्दे ॥  
@@ -607,9 +607,12 @@ with His bounteous compassion, the benevolent Lord graces us!!
 1.Kuruvaratti Nambi was a potter by profession residing at Tirumala, and was the  
 great devotee of the Lord.  
 2.Tondaman was an emperor  
-3.Anantalvar was a disciple of Ramanujacharya, who was sent to Tirumala by the Acharya to maintain a flower garden for Lord Venkateswara's daily worship.  
-4.Tirumala Nambi was the maternal uncle of Ramanuja, who taught him the Ramayanat Tirumala.  
-5.Tirukachhi Nambi (Kanchipurna) was a disciple of Yamunacharya, and it was he who instructed Ramanuja according to the Lord's wishes.  
+3.Anantalvar was a disciple of Ramanujacharya, who was sent to Tirumala by the  
+Acharya to maintain a flower garden for Lord Venkateswara's daily worship.  
+4.Tirumala Nambi was the maternal uncle of Ramanuja, who taught him the Ramayan  
+at Tirumala.  
+5.Tirukachhi Nambi (Kanchipurna) was a disciple of Yamunacharya, and it was he who  
+instructed Ramanuja according to the Lord's wishes.  
 2627  
 नारयणते नमो नमो  
 Nārayaṇatē Namō Namō  
@@ -624,9 +627,9 @@ Nārayaṇatē Namō Namō
 बलिबन्धन गोपवधू वल्लभ  
 नलिनोदर ते नमो नमो ॥॥ नारायण ॥  
 आदिदेव सकलागम पूजित  
-यूदवकुल मोहन रूप  
+यादवकुल मोहन रूप  
 वेदोद्धर तिरुवेङ्कट नायक  
-नादᐁपियते नमो नमो ॥॥ नारायण ॥  
+नादप्रियते नमो नमो ॥॥ नारायण ॥  
 nārayaṇatē namō namō  
 nārada sannuta namō namō .... nārāyaṇa ..  
 murahara bhavahara mukunda mādhava  
@@ -933,13 +936,13 @@ Lord Venkatapathi, O Sena Mudalari!
 Ō Pavanātmaja Ō Ghanuḍa  
 ओ पवनात्मज ओ घनुड  
 बापु बापनग बरगितिगा॥॥ओ॥  
-वो हनुमन्तुड वुदयूचल नि  
+वो हनुमन्तुड वुदयाचल नि  
 र्वाहक निजसर्व प्रबल  
 देहमु मोचिन तॆगुवकु निटुवलॆ  
 साहसमिटुवलॆ जाटितिगा॥॥ओ॥  
 वो रवि ग्रहण वो दनुजान्तक  
 मारुलेक मति मलसितिगा  
-दारुणपु विनतातन यूदुलु  
+दारुणपु विनतातन यादुलु  
 गारविम्प निटु गलिगितिगा॥॥ओ॥  
 वो दशमुखहर वो वेङ्कटपति  
 पादसरोरुहपालकु डा  
@@ -988,7 +991,7 @@ Cakramā Haricakramā
 नाना जीवमुल प्राणमुलु गाचि धर्म -  
 मूनि निलुप गदवो वो चक्रमा॥॥चक्र॥  
 वॆऱचि ब्रह्मादुलु वेदमन्त्रमुल नी -  
-वुऱुट्लु गॊनियूडे रो चक्रमा  
+वुऱुट्लु गॊनियाडे रो चक्रमा  
 अऱिमुऱि दिरुवेकटाद्रीशु वीथुल  
 वॊऱवुल मॆऱयदुवो वो चक्रमा॥॥चक्र॥  
 cakramā haricakramā  
@@ -1113,7 +1116,7 @@ and the purest of all purity!
 ऎट्टु नेरिचितिवय्य यिन्नि  
 Eṭṭu Nēricitivayya Yinni  
 ऎट्टु नेरिचितिवय्य यिन्नि वाहनमुलॆक्क  
-गटिगा निंवुके हरि कडु मॆच्चेमय्यू॥॥ऎट्टु॥  
+गटिगा निंवुके हरि कडु मॆच्चेमय्या॥॥ऎट्टु॥  
 गरुडुनि मीद नॆक्कि गमनिञ्चितिवि नाडु  
 अरुदैन पारिजातहरणानकु  
 गरिमतो रथमॆक्कि कदलिति वल्लनाडु  
@@ -1158,19 +1161,19 @@ along with Lakshmi, to proceed for Your wedding!!!
 सकल लोकेश्वरुलु सरुस  
 Sakala Lōkēśvarulu Sarusa  
 सकल लोकेश्वरुलु सरुस चेकॊनुवाडु  
-अकलङ्कमुग पुष्प यूगम्बु ॥॥ सकल ॥  
+अकलङ्कमुग पुष्प यागम्बु ॥॥ सकल ॥  
 विविध मन्त्रमुलतो वेदफॆूषमुलतो  
 अवल तिरुवामुडिय अङ्गनल आटतो  
 कविवन्दिनुतुलतो कम्म पूजलतोड -  
-नवधरिञ्ची पुष्प यूगम्बु ॥॥ सकल ॥  
+नवधरिञ्ची पुष्प यागम्बु ॥॥ सकल ॥  
 कप्पुरपुटारतुल घनचन्दनमु तोड  
 तॆप्पल धूपमुल तिरुवन्दि कापुतो  
 ऒप्पु(ग) पण्यारमुलु वॊगि पॆक्कुवगलतो  
-अप्पडन्दी पुष्प यूगम्बु ॥॥ सकल ॥  
+अप्पडन्दी पुष्प यागम्बु ॥॥ सकल ॥  
 तगु छत्र चामर ताम्बुलमुलतोड  
 पगटुतो नीरीति पदिपूजलन्दुकॊनि  
 जिगिमीरॆ चूडरे श्री वेङ्कटेश्वरुनि  
-अगणितम्बगु पुष्प यूगम्बु ॥॥ सकल ॥  
+अगणितम्बगु पुष्प यागम्बु ॥॥ सकल ॥  
 sakala lōkēśvarulu sarusa cēkonuvāḍu  
 akalaṅkamuga puṣpa yāgambu .... sakala ..  
 vividha mantramulatō vēdaghōṣamulatō  
@@ -1300,7 +1303,7 @@ You alone save us in every way!
 Paṭṭinadellā Brahmamu  
 पट्टिनदॆल्ला ब्रह्ममु  
 दट्टपुजडुनिकि दैवम्बेला ॥॥ पट्टिन ॥  
-घनयूचकुनकु कनकमे ब्रह्ममु  
+घनयाचकुनकु कनकमे ब्रह्ममु  
 तनुवे ब्रह्ममु तरुवलिकि  
 यॆनय गामुकुन किन्तुले ब्रह्ममु  
 तनलो वॆलिगेटि तत्वं बेला ॥॥ पट्टिन ॥  
