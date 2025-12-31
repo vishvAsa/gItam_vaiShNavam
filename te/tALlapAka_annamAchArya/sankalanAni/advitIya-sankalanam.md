@@ -1,11 +1,11 @@
 +++
 title = "अद्वितीय-सङ्कलनम्"
 +++
-II Srimathe Ramanujaya Namaha II  
-Sree Tallapaka  
-Annamacharya Sankirtanas  
+**Sree Tallapaka**  
+**Annamacharya Sankirtanas**  
 1  
-नित्यात्मुडै यण्डि नित्युडै  
+
+## नित्यात्मुडै यण्डि नित्युडै
 Nityātmuḍai Yuṇḍi Nityuḍai  
 नित्यात्मुडै यण्डि नित्युडै वॆलुगॊन्दु  
 सत्यात्मुडै यण्डि सत्यमै तानुण्डु ॥॥नित्या॥  
@@ -35,21 +35,21 @@ Nityātmuḍai Yuṇḍi Nityuḍai
 डे वेल्पु भुवनैक हितमनोभावकुडु  
 ए वेल्पु कडु सूक्ष्म मेवेल्पु कडु घनमु  
 आ वेल्पु तिरुवेङ्कटाद्रिविभुडु ॥॥नित्या॥  
-nityātmuḍai yuṇḍi nityuḍai velugondu  
-satyātmuḍai yuṇḍi satyamai tānuṇḍu ..  
-pratyakṣamai yuṇḍi brahmamai yuṇḍu saṃ  
-stutyuḍī tiruvēṅkaṭādrivibhuḍu..nityā..  
-ēmūrti lōkambulella nēleḍu nāta  
-ḍēmūrti brahmādulella vedakeḍu nāta  
-ḍēmūrti nijamōkṣa miyyajāleḍu nāta  
-ḍēmūrti lōkaikahituḍu  
-ēmūrti nijamūrti yēmūrtiyunugāḍu  
-yēmūrti traimūrtu lēkamaina yāta  
-ḍēmūrti sarvātmu ḍēmūrti paramātmu  
-ḍāmūrti tiruvēṅkaṭādri vibhuḍu....nityā..  
-ē dēvu dēhamuna ninniyunu janmiñce  
-nē dēvu dēhamuna ninniyu naṇaṅge mari  
-yē dēvu vigrahaṃ bīsakala mintayunu  
+**nityātmuḍai yuṇḍi nityuḍai velugondu**  
+**satyātmuḍai yuṇḍi satyamai tānuṇḍu ..**  
+**pratyakṣamai yuṇḍi brahmamai yuṇḍu saṃ**  
+**stutyuḍī tiruvēṅkaṭādrivibhuḍu..nityā..**  
+**ēmūrti lōkambulella nēleḍu nāta**  
+**ḍēmūrti brahmādulella vedakeḍu nāta**  
+**ḍēmūrti nijamōkṣa miyyajāleḍu nāta**  
+**ḍēmūrti lōkaikahituḍu**  
+**ēmūrti nijamūrti yēmūrtiyunugāḍu**  
+**yēmūrti traimūrtu lēkamaina yāta**  
+**ḍēmūrti sarvātmu ḍēmūrti paramātmu**  
+**ḍāmūrti tiruvēṅkaṭādri vibhuḍu....nityā..**  
+**ē dēvu dēhamuna ninniyunu janmiñce**  
+**nē dēvu dēhamuna ninniyu naṇaṅge mari**  
+**yē dēvu vigrahaṃ bīsakala mintayunu**  
 23  
 Who is the Lord from whose body everything emanated ,  
 Who is the Lord into whose body everything finally merges,  
@@ -69,19 +69,19 @@ Who is the God existing as the Supreme Overlord,
 Who is the God who eternally thinks about the welfare of this world,  
 Who is the God who is most subtle and also the most extraordinary?  
 That God is the Lord of Tiru Venkatadri!  
-ē dēvu nētrambu lina candrulu,  
-ē dēvu ḍījīvu linniṇṭilō nuṇḍu  
-nēdēvu caitanya minniṭiki nādhāra  
-mēdēvu ḍavyaktuḍē dēvuḍadvandvu  
-ḍā dēvuḍī vēṅkaṭādrivibhuḍu....nityā..  
-ē vēlpu pādhayuga milayu nākāśambu  
-ē vēlpu pādakē śāntaṃ banantambu  
-ē vēlpu niśvāsa mī mahāmārutamu  
-ē vēlpu nijadāsulī puṇyulu  
-ē vēlpu sarvēśuḍē vēlpu paramēśu  
-ḍē vēlpu bhuvanaika hitamanōbhāvakuḍu  
-ē vēlpu kaḍu sūkṣma mēvēlpu kaḍu ghanamu  
-ā vēlpu tiruvēṅkaṭādrivibhuḍu ....nityā..  
+**ē dēvu nētrambu lina candrulu,**  
+**ē dēvu ḍījīvu linniṇṭilō nuṇḍu**  
+**nēdēvu caitanya minniṭiki nādhāra**  
+**mēdēvu ḍavyaktuḍē dēvuḍadvandvu**  
+**ḍā dēvuḍī vēṅkaṭādrivibhuḍu....nityā..**  
+**ē vēlpu pādhayuga milayu nākāśambu**  
+**ē vēlpu pādakē śāntaṃ banantambu**  
+**ē vēlpu niśvāsa mī mahāmārutamu**  
+**ē vēlpu nijadāsulī puṇyulu**  
+**ē vēlpu sarvēśuḍē vēlpu paramēśu**  
+**ḍē vēlpu bhuvanaika hitamanōbhāvakuḍu**  
+**ē vēlpu kaḍu sūkṣma mēvēlpu kaḍu ghanamu**  
+**ā vēlpu tiruvēṅkaṭādrivibhuḍu ....nityā..**  
 Being the eternal indweller, shining effulgently as the eternal being,  
 being the true self, and existing as the truth,  
 being manifest, and being the Supreme Brahman,  
@@ -97,8 +97,8 @@ Who is the deity existing as the inner self of all,
 Who is the deity who is the Paramatma?  
 That deity is the Lord of Venkatadri!  
 45  
- आदिमपूरुषु डच्युतु डचलु  
-   Ādimapūruṣu Ḍacyutu Ḍacalu  
+## आदिमपूरुषु डच्युतु डचलु
+**Ādimapūruṣu Ḍacyutu Ḍacalu**  
 आदिमपूरुषु डच्युतु डचलु डनन्तुं डमलुडु  
 आदेवु डीतडेपो हरि वेङ्कटविभुडु ॥॥ आदि ॥  
 एकार्णवमै उदकमुलेचिन ब्रह्माण्डमुलो  
@@ -113,20 +113,20 @@ That deity is the Lord of Venkatadri!
 धारुणियनु सिरियनु बादमु लॊत्तगनु  
 चेरुव दनु ब्रह्मादुलु सेविम्पग जॆलुवॊन्दॆडि  
 नारायणु डितडे वुन्नत वेङ्कटविभुडु ॥॥ आदि ॥  
-ādimapūruṣu ḍacyutu ḍacalu ḍanantuṃ ḍamaluḍu  
-ādēvu ḍītaḍēpō hari vēṅkaṭavibhuḍu .... ādi ..  
-ēkārṇavamai udakamulēcina brahmāṇḍamulō  
-baikoniyuṇḍaga nokavaṭapatramulōpalanu  
-cēkoni pavaḷimpucu nokaśiśuvai vaḍi dēlāḍina -  
-śrīkāntu ḍītaḍēpō śrīvēṅkaṭavibhuḍu .... ādi ..  
-aruduga balimada maḍapaga nākasamaṇṭinarūpamu  
-sarugana bhūmintayu nokacaraṇambuna golaci  
-paraginapādāṅguṭamuna brahmāṇḍamu nagiliñcina  
-paramātmu ḍītaḍēpō pati vēṅkaṭavibhuḍu .... ādi ..  
-kṣīrapayōnidhilōpala śēṣuḍu paryaṅkamugā  
-dhāruṇiyanu siriyunu bādamu lottaganu  
-cēruva danu brahmādulu sēvimpaga jeluvondeḍi  
-nārāyaṇu ḍitaḍē vunnata vēṅkaṭavibhuḍu .... ādi ..  
+**ādimapūruṣu ḍacyutu ḍacalu ḍanantuṃ ḍamaluḍu**  
+**ādēvu ḍītaḍēpō hari vēṅkaṭavibhuḍu .... ādi ..**  
+**ēkārṇavamai udakamulēcina brahmāṇḍamulō**  
+**baikoniyuṇḍaga nokavaṭapatramulōpalanu**  
+**cēkoni pavaḷimpucu nokaśiśuvai vaḍi dēlāḍina -**  
+**śrīkāntu ḍītaḍēpō śrīvēṅkaṭavibhuḍu .... ādi ..**  
+**aruduga balimada maḍapaga nākasamaṇṭinarūpamu**  
+**sarugana bhūmintayu nokacaraṇambuna golaci**  
+**paraginapādāṅguṭamuna brahmāṇḍamu nagiliñcina**  
+**paramātmu ḍītaḍēpō pati vēṅkaṭavibhuḍu .... ādi ..**  
+**kṣīrapayōnidhilōpala śēṣuḍu paryaṅkamugā**  
+**dhāruṇiyanu siriyunu bādamu lottaganu**  
+**cēruva danu brahmādulu sēvimpaga jeluvondeḍi**  
+**nārāyaṇu ḍitaḍē vunnata vēṅkaṭavibhuḍu .... ādi ..**  
 The Adi-Purusha, Achyutha, the firm one, the limitless one, the sinless one  
 That Lord himself is Hari, this Lord of Venkata!  
 During the apocalypse, when the waters inundated  
@@ -142,7 +142,8 @@ as Sree devi and Bhu devi press His feet lovingly,
 with Brahma and others serving Him closely, the Lord who  
 rejoices thus, that Narayana Himself is this Supreme Lord of Venkata!  
 67  
-देवरवैति  
+## देवरवैति
+
  Dēvaravaiti  
 देवरवैति विन्निटा देवुलायॆनापॆ नीकु  
 आवल मिम्मिद्दरि नेमनि पॊगडेमय्या ॥॥देवर ॥  
@@ -158,20 +159,20 @@ rejoices thus, that Narayana Himself is this Supreme Lord of Venkata!
 कन्दुव नीमुञ्जेति कङ्कण मायनु  
 यिन्दुन श्री वेङ्कटेश यीपॆ सर्वमोहनमु  
 कन्दु वाय निन्नु गूडॆ (डि?) कलिमॆल्ला मॆरसॆ ॥॥देवर ॥  
-dēvaravaiti vinniṭā dēvulāyenāpe nīku  
-āvala mimmiddari nēmani pogaḍēmayyā ....dēvara ..  
-punnama vennelajōḍu pūvulalōna vāsana  
-unnati mīri nī puramekkenu  
-mannana sampadarāśi madanuni puṭṭinillu  
-vannetō nīku rāṇivāsamāyenu....dēvara ..  
-pālajalanidhitēṭa baṅgāru lōpali kaḷa  
-kīlitamugā nī keṅgēlu vaṭṭenu  
-mēlulō sākāramu miñcu lōkamu bhāgyamu  
-tālimitō nīku mūladhanamāyenu ....dēvara ..  
-aṃdarini gannatalli ādimūlamaina lakṣmi  
-kanduva nīmuñjēti kaṅkaṇa māyanu  
-yinduna śrī vēṅkaṭēśa yīpe sarvamōhanamu  
-kandu vāya ninnu gūḍe (ḍi?) kalimellā merase ....dēvara ..  
+**dēvaravaiti vinniṭā dēvulāyenāpe nīku**  
+**āvala mimmiddari nēmani pogaḍēmayyā ....dēvara ..**  
+**punnama vennelajōḍu pūvulalōna vāsana**  
+**unnati mīri nī puramekkenu**  
+**mannana sampadarāśi madanuni puṭṭinillu**  
+**vannetō nīku rāṇivāsamāyenu....dēvara ..**  
+**pālajalanidhitēṭa baṅgāru lōpali kaḷa**  
+**kīlitamugā nī keṅgēlu vaṭṭenu**  
+**mēlulō sākāramu miñcu lōkamu bhāgyamu**  
+**tālimitō nīku mūladhanamāyenu ....dēvara ..**  
+**aṃdarini gannatalli ādimūlamaina lakṣmi**  
+**kanduva nīmuñjēti kaṅkaṇa māyanu**  
+**yinduna śrī vēṅkaṭēśa yīpe sarvamōhanamu**  
+**kandu vāya ninnu gūḍe (ḍi?) kalimellā merase ....dēvara ..**  
 You are the God in everything! Befitting Goddess You have as Your consort!  
 In what manner can we praise you both?  
 Like a pair of the full moon and its light, like the flowers and their fragrance!  
@@ -187,8 +188,8 @@ Eagerly She adorned Your body as a sacred ornament!
 In this manner, Sree Venkatesha, She-the supremely bewitching one,  
 As she joined You, Your prosperity dazzled in effulgence!  
 89  
-वाडॆ वॆङ्कटाद्रि मीद  
- Vāḍe Veṅkaṭādri Mīda  
+## वाडॆ वॆङ्कटाद्रि मीद
+**Vāḍe Veṅkaṭādri Mīda**  
 वाडॆ वेङ्कटाद्रिमीद वरदैवमु  
 पोडिमितो पॊडचूपॆ पॊडवैन दैवमु ॥॥ वाडॆ ॥  
 वॊक्कॊक्करोमकूपान नॊगि ब्रह्माण्डकोट्लु  
@@ -203,20 +204,20 @@ As she joined You, Your prosperity dazzled in effulgence!
 तरगि पडवेसिन दण्डिदयिवमू  
 सिरि वुरमुन निञ्चि श्रीवेङ्कटेशुडयि  
 शरणागतुलगाचे सतमयिनदैवमु ॥॥ वाडॆ ॥  
-vāḍe vēṅkaṭādrimīda varadaivamu  
-pōḍimitō poḍacūpe poḍavaina daivamu .... vāḍe ..  
-vokkokkarōmakūpāna nogi brahmāṇḍakōṭlu  
-pikkaṭilla velugondē penudaivamu  
-pakkananu tanalōni padunālugulōkālu  
-tokki pādānagolacēdoḍḍadaivamu .... vāḍe ..  
-vēdaśāstrālu nutiñci vēsari kānagalēni -  
-mōdapu pekkuguṇāla mūladaivamu  
-pōdi dēvatalanella puṭṭiñca rakṣiñca  
-ādikāraṇambaina ajuganna daivamu .... vāḍe ..  
-sarusa śaṅkhacakrālu saribaṭṭi asurula  
-taragi paḍavēsina daṇḍidayivamū  
-siri vuramuna niñci śrīvēṅkaṭēśuḍayi  
-śaraṇāgatulagācē satamayinadaivamu .... vāḍe ..  
+**vāḍe vēṅkaṭādrimīda varadaivamu**  
+**pōḍimitō poḍacūpe poḍavaina daivamu .... vāḍe ..**  
+**vokkokkarōmakūpāna nogi brahmāṇḍakōṭlu**  
+**pikkaṭilla velugondē penudaivamu**  
+**pakkananu tanalōni padunālugulōkālu**  
+**tokki pādānagolacēdoḍḍadaivamu .... vāḍe ..**  
+**vēdaśāstrālu nutiñci vēsari kānagalēni -**  
+**mōdapu pekkuguṇāla mūladaivamu**  
+**pōdi dēvatalanella puṭṭiñca rakṣiñca**  
+**ādikāraṇambaina ajuganna daivamu .... vāḍe ..**  
+**sarusa śaṅkhacakrālu saribaṭṭi asurula**  
+**taragi paḍavēsina daṇḍidayivamū**  
+**siri vuramuna niñci śrīvēṅkaṭēśuḍayi**  
+**śaraṇāgatulagācē satamayinadaivamu .... vāḍe ..**  
 He is the boon bestowing Lord who resides on Venkatadri!  
 The gloriously manifested tall God!!  
 The one from whose every hair follicle burst forth the crores of Universes,  
@@ -232,8 +233,8 @@ that many-formed Lord He is!
 By placing Sree on His chest, becoming Sree Venkatesha  
 He is that eternal God who protects Sharanagathas!  
 1011  
-तॊल्लियनु मऱ्ऱाकु  
- Tolliyunu Maṟṟāku  
+## तॊल्लियनु मऱ्ऱाकु
+**Tolliyunu Maṟṟāku**  
 तॊल्लियनु मऱ्ऱाकु तॊट्टलनॆ यूगॆ गन  
 चॆल्लुबडि नूगीनि श्रीरङ्ग शिशुवु ॥॥ तॊल्लि ॥  
 कलिकि कावेरि तरगल बाहु लतलने  
@@ -248,20 +249,20 @@ He is that eternal God who protects Sharanagathas!
 पादुकॊनु तॊट्टॆलै परगगानु  
 श्रीदेवितो गूडि श्री वेङ्कटेशुडे  
 सेददेरडि वाडॆ श्रीरङ्ग शिशुवु ॥॥ तॊल्लि ॥  
-tolliyunu maṟṟāku toṭṭalane yūge gana  
-cellubaḍi nūgīni śrīraṅga śiśuvu .... tolli ..  
-kaliki kāvēri taragala bāhu latalanē  
-talagakiṭu raṅgamadhyapu toṭṭelan  
-palumāru tanu jūci pāḍagā nūgīni  
-cilupāla selavitō śrīraṅga śiśuvu .... tolli ..  
-adivo kamalajuni tiruvāradhanaṃ banaga  
-adana kamalabhavāṇḍamanu toṭṭelun  
-udadhulu taraṅgamulu nūcagā nūgīni  
-cedarani sirulatōḍa śrīraṅga śiśuvu .... tolli ..  
-vēdamule cērulai velayaṅga śēṣuḍē  
-pādukonu toṭṭelai paragagānu  
-śrīdēvitō gūḍi śrī vēṅkaṭēśuḍē  
-sēdadēraḍi vāḍe śrīraṅga śiśuvu .... tolli ..  
+**tolliyunu maṟṟāku toṭṭalane yūge gana**  
+**cellubaḍi nūgīni śrīraṅga śiśuvu .... tolli ..**  
+**kaliki kāvēri taragala bāhu latalanē**  
+**talagakiṭu raṅgamadhyapu toṭṭelan**  
+**palumāru tanu jūci pāḍagā nūgīni**  
+**cilupāla selavitō śrīraṅga śiśuvu .... tolli ..**  
+**adivo kamalajuni tiruvāradhanaṃ banaga**  
+**adana kamalabhavāṇḍamanu toṭṭelun**  
+**udadhulu taraṅgamulu nūcagā nūgīni**  
+**cedarani sirulatōḍa śrīraṅga śiśuvu .... tolli ..**  
+**vēdamule cērulai velayaṅga śēṣuḍē**  
+**pādukonu toṭṭelai paragagānu**  
+**śrīdēvitō gūḍi śrī vēṅkaṭēśuḍē**  
+**sēdadēraḍi vāḍe śrīraṅga śiśuvu .... tolli ..**  
 Since, at the very beginning, He was swinging in the banyan leaf cradle  
 So, with supreme authority, He is swinging, this baby of Srirangam!  
 On the waves of the beautiful damsel Kaveri’s encircling arms,  
@@ -278,8 +279,8 @@ Along with Sree-Devi, Sree Venkatesha Himself
 is the one who is relaxing as the baby of Srirangam!!!  
 1 Tiruvaradhanam: The propitious daily worship.  
 1213  
-वन्दे वासुदेवं  
-Vandē Vāsudēvaṃ  
+## वन्दे वासुदेवं
+**Vandē Vāsudēvaṃ**  
 वन्दे वासुदेवं  
 बृन्दारकाधीशवन्दितपदाब्जम् ॥॥ वन्दे ॥  
 इन्दीवरश्याम मिन्दिराकुचतटी -  
@@ -294,20 +295,20 @@ Vandē Vāsudēvaṃ
 करिराजवरदसङ्गतकराब्जं  
 सरसीरुहाननं चक्रविभ्राजितं  
 तिरुवेङ्कटाचला देवं भजे ॥॥ वन्दे ॥  
-vandē vāsudēvaṃ  
-bṛndārakādhīśavanditapadābjaṃ .... vandē ..  
-iṃdīvaraśyāma mindirākucataṭī -  
-candanāṅkitalasaccārudēhaṃ  
-mandāramālikāmakuṭasaṃśōbhitaṃ  
-kandarpajanaka maravindanābhaṃ .... vandē ..  
-dhagadhagitakaustubhā dharaṇa vakṣasthalaṃ  
-khagarājavāhanaṃ kamalanayanaṃ  
-nigamādhisēvitaṃ nijarūpaśēṣapa -  
-nnagarājaśāyinaṃ ghananivāsaṃ .... vandē ..  
-karipuranāthasaṃrakṣaṇē tatparaṃ  
-karirājavaradasaṅgatakarābjaṃ  
-sarasīruhānanaṃ cakravibhrājitaṃ  
-tiruvēṅkaṭācalā dēvaṃ bhajē .... vandē ..  
+**vandē vāsudēvaṃ**  
+**bṛndārakādhīśavanditapadābjaṃ .... vandē ..**  
+**iṃdīvaraśyāma mindirākucataṭī -**  
+**candanāṅkitalasaccārudēhaṃ**  
+**mandāramālikāmakuṭasaṃśōbhitaṃ**  
+**kandarpajanaka maravindanābhaṃ .... vandē ..**  
+**dhagadhagitakaustubhā dharaṇa vakṣasthalaṃ**  
+**khagarājavāhanaṃ kamalanayanaṃ**  
+**nigamādhisēvitaṃ nijarūpaśēṣapa -**  
+**nnagarājaśāyinaṃ ghananivāsaṃ .... vandē ..**  
+**karipuranāthasaṃrakṣaṇē tatparaṃ**  
+**karirājavaradasaṅgatakarābjaṃ**  
+**sarasīruhānanaṃ cakravibhrājitaṃ**  
+**tiruvēṅkaṭācalā dēvaṃ bhajē .... vandē ..**  
 I worship Vasudeva!  
 That one who is revered by the head of all demigods!  
 The one like a black cloud, who from the confines of Lakshmi's bosom  
@@ -322,11 +323,11 @@ The Lord of Karipura, the one who is always engaged in protection
 the one who blessed the elephant king at the time of need, with His lotus like hands,  
 the one with Lotus eyes, the one who shines brilliantly with the discus,  
 On that Lord of Tiru Venkatachala, I meditate!  
-This Sankirtana is composed on Kanchi Varadaraja Perumal!  
+**This Sankirtana is composed on Kanchi Varadaraja Perumal!**  
 1. Kandarpa : Manmatha  
 1415  
-भावमुलोन  
-Bhāvamulōna  
+## भावमुलोन
+**Bhāvamulōna**  
 भावमुलोना बाह्यमु नन्दुनु  
 गोविन्द गोविन्द यनि कॊलुववो मनसा ॥॥ भावमु ॥  
 हरियवतारमुले अखिल देवतलु  
@@ -341,20 +342,20 @@ Bhāvamulōna
 अच्युतुडे असुरान्तकुडु  
 अच्युतुडु श्रीवेङ्कटाद्रि मीद निदॆ  
 अच्युत अच्युत शरणनवो मनसा ॥॥ भावमु ॥  
-bhāvamulōnā bāhyamu nandunu  
-gōvinda gōvinda yani koluvavō manasā .. ..bhāvamu ..  
-hariyavatāramulē akhila dēvatalu  
-harilōnivē brahmāṇḍambulu  
-hari nāmamulē anni mantramulu  
-hari hari hari hari hari yanavō manasā .... bhāvamu ..  
-viṣṭuni mahimalē vihita karmamulu  
-viṣṭuni pogaḍeḍi vēdambulu  
-viṣṭuḍokkaḍē viśvāntarātmuḍu  
-viṣṭuvu viṣṭuvani vedakavō manasā .... bhāvamu ..  
-acyutu ḍitaḍē ādiyu nantyamu  
-acyutuḍē asurāntakuḍu  
-acyutuḍu śrīvēṅkaṭādri mīda nide  
-acyuta acyuta śaraṇanavō manasā .... bhāvamu ..  
+**bhāvamulōnā bāhyamu nandunu**  
+**gōvinda gōvinda yani koluvavō manasā .. ..bhāvamu ..**  
+**hariyavatāramulē akhila dēvatalu**  
+**harilōnivē brahmāṇḍambulu**  
+**hari nāmamulē anni mantramulu**  
+**hari hari hari hari hari yanavō manasā .... bhāvamu ..**  
+**viṣṭuni mahimalē vihita karmamulu**  
+**viṣṭuni pogaḍeḍi vēdambulu**  
+**viṣṭuḍokkaḍē viśvāntarātmuḍu**  
+**viṣṭuvu viṣṭuvani vedakavō manasā .... bhāvamu ..**  
+**acyutu ḍitaḍē ādiyu nantyamu**  
+**acyutuḍē asurāntakuḍu**  
+**acyutuḍu śrīvēṅkaṭādri mīda nide**  
+**acyuta acyuta śaraṇanavō manasā .... bhāvamu ..**  
 O mind! In your thought and also outwardly,  
 say ‘Govinda’, ‘Govinda’ and pay reverence!  
 All deities are but Hari’s Incarnations  
@@ -370,8 +371,8 @@ Achyuta Himself has put all diabolical demons to end
 Achyuta is the one on Sri Venkatadri Hill,  
 O mind! Take refuge in that Achyuta!  
 1617  
-ब्रह्म कडिगिन पादमु  
-Brahma Kaḍigina Pādamu  
+## ब्रह्म कडिगिन पादमु
+**Brahma Kaḍigina Pādamu**  
 ब्रह्म कडिगिन पादमु  
 ब्रह्ममु तानॆ नी पादमु॥ ब्रह्म ॥  
 चॆलगि वसुध गॊलिचिन नी पादमु  
@@ -386,20 +387,20 @@ Brahma Kaḍigina Pādamu
 परमॊसगॆडि नी पादमु  
 तिरु वेङ्कटगिरि तिरमनि चूपिन  
 परम पदमु नी पादमु॥ ब्रह्म ॥  
-brahma kaḍigina pādamu  
-brahmamu tāne nī pādamu.. brahma ..  
-celagi vasudha golicina nī pādamu  
-balitala mōpina pādamu  
-talakaka gaganamu tannina pādamu  
-balaripu gācina pādamu.. brahma ..  
-kāmini pāpamu kaḍigina pādamu  
-pāmu talaniḍina pādamu  
-prēmapu śrīpati pisikeḍi pādamu  
-pāmiḍi turagapu pādamu.. brahma ..  
-parama yōgulaku paripari vidhamula  
-paramosageḍi nī pādamu  
-tiru vēṅkaṭagiri tiramani cūpina  
-parama padamu nī pādamu.. brahma ..  
+**brahma kaḍigina pādamu**  
+**brahmamu tāne nī pādamu.. brahma ..**  
+**celagi vasudha golicina nī pādamu**  
+**balitala mōpina pādamu**  
+**talakaka gaganamu tannina pādamu**  
+**balaripu gācina pādamu.. brahma ..**  
+**kāmini pāpamu kaḍigina pādamu**  
+**pāmu talaniḍina pādamu**  
+**prēmapu śrīpati pisikeḍi pādamu**  
+**pāmiḍi turagapu pādamu.. brahma ..**  
+**parama yōgulaku paripari vidhamula**  
+**paramosageḍi nī pādamu**  
+**tiru vēṅkaṭagiri tiramani cūpina**  
+**parama padamu nī pādamu.. brahma ..**  
 The feet which Lord Brahma washed with reverence,  
 they are the Supreme Brahman themselves!  
 The feet which Vasudha1 joyfully worshipped,  
@@ -419,8 +420,8 @@ the Parama-Padam3 is at your feet!
 Rama’s feet  
 3.The supreme realm  
 1819  
-ऎन्त मात्रमुन  
-Eṃta Mātramuna  
+## ऎन्त मात्रमुन
+**Eṃta Mātramuna**  
 ऎन्त मात्रमुन ऎव्वरु दलचिन अन्त मात्रमे नीवु  
 अन्तरान्तरमु लॆञ्चि चूड पिण्डन्ते निप्पटि यन्नट्लु ॥॥ ऎन्त ॥  
 कॊलुतुरु मिमु वैष्टवुलु कूरिमितो विष्टुडनि  
@@ -435,21 +436,21 @@ Eṃta Mātramuna
 आवल भागीरधि दरि बावुल आ जलमे ऊरियन्नट्लु  
 श्रीवेङ्कटपति नीवैते ममु चेकॊनि वुन्न दैवमनि  
 ईवल ने नी शरणननॆदनु इदिये पर तत्त्वमु नाकु ॥॥ ऎन्त ॥  
-eṃta mātramuna evvaru dalacina aṃta mātramē nīvu  
-aṃtarāntaramu leñci cūḍa piṇḍantē nippaṭi yannaṭlu ..eṃta ..  
-koluturu mimu vaiṣṭavulu kūrimitō viṣṭuḍani  
-palukuduru mimu vēdāntulu parabrahmambanucu  
-talaturu mimu śaivulu tagina bhaktulunu śivuḍanucu  
-alari pogaḍuduru kāpāliku lādibhairavuṇḍanucu .... eṃta ..  
-sari nennuduru śāktēyulu śaktirūpu nīvanucu  
-dariśanamulu mimu nānāvidhulanu talapula koladula bhajinturu  
-pirula mimu nē yalpabuddhi dalacina vāriki alpambavudu  
-garimala mimu nē ghanamani dalacina ghana buddhulaku  
-ghanuḍavu.. .. eṃta ..  
-nīvalana koratē lēdu mari nīru koladi tāmeravu  
-āvala bhāgīradhi dari bāvula ā jalamē ūriyunnaṭlu  
-śrīvēṅkaṭapati nīvaitē mamu cēkoni vunna daivamani  
-īvala nē nī śaraṇananedanu idiyē para tattvamu nāku ..eṃta ..  
+**eṃta mātramuna evvaru dalacina aṃta mātramē nīvu**  
+**aṃtarāntaramu leñci cūḍa piṇḍantē nippaṭi yannaṭlu ..eṃta ..**  
+**koluturu mimu vaiṣṭavulu kūrimitō viṣṭuḍani**  
+**palukuduru mimu vēdāntulu parabrahmambanucu**  
+**talaturu mimu śaivulu tagina bhaktulunu śivuḍanucu**  
+**alari pogaḍuduru kāpāliku lādibhairavuṇḍanucu .... eṃta ..**  
+**sari nennuduru śāktēyulu śaktirūpu nīvanucu**  
+**dariśanamulu mimu nānāvidhulanu talapula koladula bhajinturu**  
+**pirula mimu nē yalpabuddhi dalacina vāriki alpambavudu**  
+**garimala mimu nē ghanamani dalacina ghana buddhulaku**  
+**ghanuḍavu.. .. eṃta ..**  
+**nīvalana koratē lēdu mari nīru koladi tāmeravu**  
+**āvala bhāgīradhi dari bāvula ā jalamē ūriyunnaṭlu**  
+**śrīvēṅkaṭapati nīvaitē mamu cēkoni vunna daivamani**  
+**īvala nē nī śaraṇananedanu idiyē para tattvamu nāku ..eṃta ..**  
 You are that, what one perceives you as  
 If appraised rightly, however the dough is, so turns out the pancake!  
 Vaishnavas serve You with love as ‘Vishnu’  
@@ -465,8 +466,8 @@ Around river Bhagirathi it is the same water that springs in the wells,
 If You are Sree Venkatapathi, the Lord who accepts us,  
 right here I surrender unto You totally! For me this is the highest truth!  
 2021  
-पॊडगण्टिमय्य मिम्मु  
-Poḍagaṇṭimayya Mimmu  
+## पॊडगण्टिमय्य मिम्मु
+**Poḍagaṇṭimayya Mimmu**  
 पॊडगण्टिमय्य मिम्मु पुरुषोत्तमा मम्मु  
 नॆडयकवय्य कोनेटिरायडा ॥॥ पॊडगण्टि ॥  
 कोरि मम्मु नेलिनट्टि कुलदैवमा! चाला  
@@ -481,20 +482,20 @@ Poḍagaṇṭimayya Mimmu
 लडचि रक्षिञ्चे दिव्यौषधमा!  
 बडिबायक तिरिगे प्राणबन्धुडा! मम्मु  
 गडियिञ्चिवट्टि श्री वेङ्कटनाधुडा ॥॥ पॊडगण्टि ॥  
-poḍagaṇṭimayya mimmu puruṣōttamā mammu  
-neḍayakavayya kōnēṭirāyaḍā .... poḍagaṇṭi ..  
-kōri mammu nēlinaṭṭi kuladaivamā! cālā  
-nēraci peddalicciva nidhānamā  
-gāraviñci dappidīrcu kālamēghamā! māku  
-cēruva cittamulōni śrīnivāsuḍā! .... poḍagaṇṭi ..  
-bhāvimpakaivasamaina pārijātamā! mammu  
-cēvadēra gācinaṭṭi cintāmaṇī  
-kāviñci kōrikaliccē kāmadhēnuvā! mammu  
-tāvai rakṣiñcēṭi dharaṇīdharā! .... poḍagaṇṭi ..  
-ceḍanīka bratikiñcē siddhamantramā! rōgā -  
-laḍaci rakṣiñcē divyauṣadhamā!  
-baḍibāyaka tirigē prāṇabandhuḍā! mammu  
-gaḍiyiñcivaṭṭi śrī vēṅkaṭanādhuḍā .... poḍagaṇṭi ..  
+**poḍagaṇṭimayya mimmu puruṣōttamā mammu**  
+**neḍayakavayya kōnēṭirāyaḍā .... poḍagaṇṭi ..**  
+**kōri mammu nēlinaṭṭi kuladaivamā! cālā**  
+**nēraci peddalicciva nidhānamā**  
+**gāraviñci dappidīrcu kālamēghamā! māku**  
+**cēruva cittamulōni śrīnivāsuḍā! .... poḍagaṇṭi ..**  
+**bhāvimpakaivasamaina pārijātamā! mammu**  
+**cēvadēra gācinaṭṭi cintāmaṇī**  
+**kāviñci kōrikaliccē kāmadhēnuvā! mammu**  
+**tāvai rakṣiñcēṭi dharaṇīdharā! .... poḍagaṇṭi ..**  
+**ceḍanīka bratikiñcē siddhamantramā! rōgā -**  
+**laḍaci rakṣiñcē divyauṣadhamā!**  
+**baḍibāyaka tirigē prāṇabandhuḍā! mammu**  
+**gaḍiyiñcivaṭṭi śrī vēṅkaṭanādhuḍā .... poḍagaṇṭi ..**  
 We beheld your presence, O Purushottama!  
 Do not let go of us, O Konetiraayaa!1  
 You ruled over us lovingly by your own wish, O family deity!  
@@ -515,8 +516,8 @@ You won over us, O Lord Sree Venkatanatha!!
 4.The wish yielding cow  
 5.The Lord who bore the earth  
 2223  
-मुद्दुगारे यशोद  
-Muddugārē Yaśōda  
+## मुद्दुगारे यशोद
+**Muddugārē Yaśōda**  
 मुद्दुगारे यशोद मुङ्गिट मुत्तॆमु वीडु  
 तिद्दरानि महिमल देवकी सुतुडु ॥॥ मुद्दु ॥  
 अन्त निन्त गॊल्लॆतल अरचेति माणिकमु  
@@ -531,20 +532,20 @@ Muddugārē Yaśōda
 एलेटि श्रीवेङ्कटाद्रि इन्द्रनीलमु  
 पाल जलनिधिलोन पायनि दिव्यरत्नमु  
 बालुनि वलॆ तिरिगी पद्मनाभुडु ॥॥ मुद्दु ॥  
-muddugārē yaśōda muṅgiṭa muttemu vīḍu  
-tiddarāni mahimala dēvakī sutuḍu .... muddu ..  
-aṃta ninta golletala aracēti māṇikamu  
-pantamāḍē kaṃsuni pāli vajramu  
-kāntula mūḍu lōkāla garuḍa pacca pūsa  
-centala mālōnunna cinnikṛṣṭuḍu .... muddu ..  
-ratikēḷi rukmiṇiki raṅgumōvi pagaḍamu  
-miti gōvardhanapu gōmēdhikamu  
-satamai śaṅkhacakrāla sandula vaiḍūryamu  
-gatiyai mammu gācē kamalākṣuḍu .... muddu ..  
-kāḷiṅguni talalapai kappina puṣyarāgamu  
-ēlēṭi śrīvēṅkaṭādri iṃdranīlamu  
-pāla jalanidhilōna pāyani divyaratnamu  
-bāluni vale tirigī padmanābhuḍu .... muddu ..  
+**muddugārē yaśōda muṅgiṭa muttemu vīḍu**  
+**tiddarāni mahimala dēvakī sutuḍu .... muddu ..**  
+**aṃta ninta golletala aracēti māṇikamu**  
+**pantamāḍē kaṃsuni pāli vajramu**  
+**kāntula mūḍu lōkāla garuḍa pacca pūsa**  
+**centala mālōnunna cinnikṛṣṭuḍu .... muddu ..**  
+**ratikēḷi rukmiṇiki raṅgumōvi pagaḍamu**  
+**miti gōvardhanapu gōmēdhikamu**  
+**satamai śaṅkhacakrāla sandula vaiḍūryamu**  
+**gatiyai mammu gācē kamalākṣuḍu .... muddu ..**  
+**kāḷiṅguni talalapai kappina puṣyarāgamu**  
+**ēlēṭi śrīvēṅkaṭādri iṃdranīlamu**  
+**pāla jalanidhilōna pāyani divyaratnamu**  
+**bāluni vale tirigī padmanābhuḍu .... muddu ..**  
 Overflowing with sweetness, in Yashoda’s courtyard, He is the Pearl,  
 The possessor of great glories, the child of Devaki!  
 For the Gopika women, He is the easily accessible Ruby  
@@ -560,8 +561,8 @@ Ruling over Sree Venkatadri, He is the blue Sapphire
 Residing in the milky ocean eternally, He is the divine gem  
 He moved about like a small boy, this Lotus naveled Lord!  
 2425  
-कॊण्डललो नॆलकॊन्न  
-Koṇḍalalō Nelakonna  
+## कॊण्डललो नॆलकॊन्न
+**Koṇḍalalō Nelakonna**  
 कॊण्डललो नॆलकॊन्न कोनेटि रायडु वाडु  
 कॊण्डलन्त वरमुलु गुप्पॆडुवाडु ॥॥ कॊण्डललो ॥  
 कुम्मर दासुडैन कुरुवरत्तिनम्बि  
@@ -576,20 +577,20 @@ Koṇḍalalō Nelakonna
 णिञ्चि तव यॆडकु रप्पिञ्चिन वाडु  
 ऎञ्चनॆक्कुडैन वेङ्कटेशुडु मनलकु  
 मञ्चिवाडै करुण पालिञ्चिनवाडु ॥॥ कॊण्डललो ॥  
-koṇḍalalō nelakonna kōnēṭi rāyaḍu vāḍu  
-koṇḍalanta varamulu guppeḍuvāḍu .... koṇḍalalō ..  
-kummara dāsuḍaina kuruvarattinambi  
-immanna varamulella iccinavāḍu  
-dommulu cēsinayaṭṭi toṇḍamān jakkuravarti  
-rammanna cōṭiki vacci nammina vāḍu .... koṇḍalalō ..  
-accapu vēḍukatō anantāḷuvāriki  
-muccili veṭṭiki mannumōcina vāḍu  
-maccika dolaka tirumala nambi tōḍuta  
-iccanicca māṭalāḍi naccinavāḍu ..koṇḍalalō ..  
-kañcilōna vuṇḍa tirukkacci nambi mīda karu  
-ṇiñci tava yeḍaku rappiñcina vāḍu  
-eṃcanekkuḍaina vēṅkaṭēśuḍu manalaku  
-mañcivāḍai karuṇa pāliñcinavāḍu ..koṇḍalalō ..  
+**koṇḍalalō nelakonna kōnēṭi rāyaḍu vāḍu**  
+**koṇḍalanta varamulu guppeḍuvāḍu .... koṇḍalalō ..**  
+**kummara dāsuḍaina kuruvarattinambi**  
+**immanna varamulella iccinavāḍu**  
+**dommulu cēsinayaṭṭi toṇḍamān jakkuravarti**  
+**rammanna cōṭiki vacci nammina vāḍu .... koṇḍalalō ..**  
+**accapu vēḍukatō anantāḷuvāriki**  
+**muccili veṭṭiki mannumōcina vāḍu**  
+**maccika dolaka tirumala nambi tōḍuta**  
+**iccanicca māṭalāḍi naccinavāḍu ..koṇḍalalō ..**  
+**kañcilōna vuṇḍa tirukkacci nambi mīda karu**  
+**ṇiñci tava yeḍaku rappiñcina vāḍu**  
+**eṃcanekkuḍaina vēṅkaṭēśuḍu manalaku**  
+**mañcivāḍai karuṇa pāliñcinavāḍu ..koṇḍalalō ..**  
 Residing in the hills, He is the Konetiraaya !  
 He is the one who can bestow boons as huge as mountains!  
 To ‘Kuruvaratti Nambi’ the potter,  
@@ -614,8 +615,8 @@ at Tirumala.
 5.Tirukachhi Nambi (Kanchipurna) was a disciple of Yamunacharya, and it was he who  
 instructed Ramanuja according to the Lord's wishes.  
 2627  
-नारयणते नमो नमो  
-Nārayaṇatē Namō Namō  
+## नारयणते नमो नमो
+**Nārayaṇatē Namō Namō**  
 नारयणते नमो नमो  
 नारद सन्नुत नमो नमो ॥॥ नारायण ॥  
 मुरहर भवहर मुकुन्द माधव  
@@ -630,20 +631,20 @@ Nārayaṇatē Namō Namō
 यादवकुल मोहन रूप  
 वेदोद्धर तिरुवेङ्कट नायक  
 नादप्रियते नमो नमो ॥॥ नारायण ॥  
-nārayaṇatē namō namō  
-nārada sannuta namō namō .... nārāyaṇa ..  
-murahara bhavahara mukunda mādhava  
-garuḍagamana paṅkajanābha  
-paramapuruṣa bhavabandha vimōcana  
-naramṛga śarīra namō namō .... nārāyaṇa ..  
-jaladhiśayana ravicandra vilōcana  
-jalaruhabhava nuta caraṇayuga  
-balibandhana gōpavadhū vallabha  
-nalinōdara tē namō namō .... nārāyaṇa ..  
-ādidēva sakalāgama pūjita  
-yādavakula mōhana rūpa  
-vēdōddhara tiruvēṅkaṭa nāyaka  
-nādapriyatē namō namō .... nārāyaṇa ..  
+**nārayaṇatē namō namō**  
+**nārada sannuta namō namō .... nārāyaṇa ..**  
+**murahara bhavahara mukunda mādhava**  
+**garuḍagamana paṅkajanābha**  
+**paramapuruṣa bhavabandha vimōcana**  
+**naramṛga śarīra namō namō .... nārāyaṇa ..**  
+**jaladhiśayana ravicandra vilōcana**  
+**jalaruhabhava nuta caraṇayuga**  
+**balibandhana gōpavadhū vallabha**  
+**nalinōdara tē namō namō .... nārāyaṇa ..**  
+**ādidēva sakalāgama pūjita**  
+**yādavakula mōhana rūpa**  
+**vēdōddhara tiruvēṅkaṭa nāyaka**  
+**nādapriyatē namō namō .... nārāyaṇa ..**  
 To Narayana, many salutations!  
 To the one who is praised by sage Narada, many salutations !  
 To the Vanquisher of Mura, the destroyer of mortal ills, Mukunda, Madhava!  
@@ -659,8 +660,8 @@ the bewitchingly handsome one of the Yadava clan,
 the one who protected the Vedas, Tiru Venkatanayaka,  
 to the lover of music, many salutations!!  
 2829  
-नानाटि बदुकु नाटकमु  
-Nānāṭi Baduku Nāṭakamu  
+## नानाटि बदुकु नाटकमु
+**Nānāṭi Baduku Nāṭakamu**  
 नानाटि बदुकु नाटकमु  
 कानक कन्नदि कैवल्यमु॥॥नानाटि॥  
 पुट्टुटय निजमु पोवुटय निजमु  
@@ -675,20 +676,20 @@ Nānāṭi Baduku Nāṭakamu
 नगिनगि कालमु नाटकमु  
 यॆगुवनॆ श्रीवेङ्कटेश्वरु डेलिक  
 गगनमु मीदिदि कैवल्यमु॥॥नानाटि॥  
-nānāṭi baduku nāṭakamu  
-kānaka kannadi kaivalyamu....nānāṭi..  
-puṭṭuṭayu nijamu pōvuṭayu nijamu  
-naṭṭanaḍimi pani nāṭakamu  
-yeṭṭaneduṭagala dī prapañcamunu  
-kaṭṭagaḍapaṭidi kaivalyamu....nānāṭi..  
-kuḍicē dannamu kōka cuṭṭeḍidi  
-naḍu mantrapu pani nāṭakamu  
-voḍigaṭṭukonina vubhayakarmamulu  
-gaḍi dāṭinapuḍe kaivalyamu....nānāṭi..  
-tegadu pāpamunu tīradu puṇyamu  
-naginagi kālamu nāṭakamu  
-yeguvane śrīvēṅkaṭēśvaru ḍēlika  
-gaganamu mīdidi kaivalyamu....nānāṭi..  
+**nānāṭi baduku nāṭakamu**  
+**kānaka kannadi kaivalyamu....nānāṭi..**  
+**puṭṭuṭayu nijamu pōvuṭayu nijamu**  
+**naṭṭanaḍimi pani nāṭakamu**  
+**yeṭṭaneduṭagala dī prapañcamunu**  
+**kaṭṭagaḍapaṭidi kaivalyamu....nānāṭi..**  
+**kuḍicē dannamu kōka cuṭṭeḍidi**  
+**naḍu mantrapu pani nāṭakamu**  
+**voḍigaṭṭukonina vubhayakarmamulu**  
+**gaḍi dāṭinapuḍe kaivalyamu....nānāṭi..**  
+**tegadu pāpamunu tīradu puṇyamu**  
+**naginagi kālamu nāṭakamu**  
+**yeguvane śrīvēṅkaṭēśvaru ḍēlika**  
+**gaganamu mīdidi kaivalyamu....nānāṭi..**  
 The day to day existence is mere play,  
 The one which is perceived without being seen is salvation!  
 Birth is a truth, death is a truth,  
@@ -704,8 +705,8 @@ in-between, the passing time is but mere play!
 High up is Sree Venkateshwara, the ruling deity,  
 there beyond the sky is the salvation!!  
 3031  
-चक्कनि तल्लिकि छाङ्गु भळा  
-Cakkani Talliki Chāngu Bhaḷā  
+## चक्कनि तल्लिकि छाङ्गु भळा
+**Cakkani Talliki Chāngu Bhaḷā**  
 चक्कनि तल्लिकि छाङ्गु भळा तन  
 चक्कॆर मोविकि छाङ्गु भळा॥॥चक्कनि॥  
 कुलिकेटि मुरिपॆपु गुम्मरिम्पु दन  
@@ -720,20 +721,20 @@ Cakkani Talliki Chāngu Bhaḷā
 चन्दन गन्धिकि छाङ्गु भळा  
 विन्दयि वेङ्कट विभुबॆनञ्चिन तन  
 सन्दि दण्डलकु छाङ्गु भळा॥॥चक्कनि॥  
-cakkani talliki chāngu bhaḷā tana  
-cakkera mōviki chāngu bhaḷā....cakkani..  
-kulikēṭi muripepu gummarimpu dana  
-saḷapu jūpulaku chāngu bhaḷā  
-palukula solapula batitō gasareḍi  
-calamula yalukaku chāngu bhaḷā....cakkani..  
-kinneratō batikelana nilucu dava  
-cannu meṟugulaku chāngu bhaḷā  
-unnati batipai noragi nilucu dana  
-sannapu naḍimiki chāngu bhaḷā....cakkani..  
-jandepu mutyapu sarulaharamula  
-candana gandhiki chāngu bhaḷā  
-vindayi vēṅkaṭa vibhubenañcina tana  
-sandi daṇḍalaku chāngu bhaḷā....cakkani..  
+**cakkani talliki chāngu bhaḷā tana**  
+**cakkera mōviki chāngu bhaḷā....cakkani..**  
+**kulikēṭi muripepu gummarimpu dana**  
+**saḷapu jūpulaku chāngu bhaḷā**  
+**palukula solapula batitō gasareḍi**  
+**calamula yalukaku chāngu bhaḷā....cakkani..**  
+**kinneratō batikelana nilucu dava**  
+**cannu meṟugulaku chāngu bhaḷā**  
+**unnati batipai noragi nilucu dana**  
+**sannapu naḍimiki chāngu bhaḷā....cakkani..**  
+**jandepu mutyapu sarulaharamula**  
+**candana gandhiki chāngu bhaḷā**  
+**vindayi vēṅkaṭa vibhubenañcina tana**  
+**sandi daṇḍalaku chāngu bhaḷā....cakkani..**  
 Praises and encomiums many, to the beautiful mother!  
 Praises to Her face as sweet as sugar!  
 Filled with all the graceful coquettery,  
@@ -748,10 +749,9 @@ To the one with a cross belt and pearl strings,
 to that one with a bodily fragrance of sandal, many praises!  
 To those arms of Hers which surround Her consort  
 Lord Venkata with great delight, many praises!  
-
 3233  
-क्षीराब्धि कन्यककु श्री महालक्ष्मिकिनि  
-Kṣīrābdhi Kanyakaku Śrī Mahālakṣmikini  
+## क्षीराब्धि कन्यककु श्री महालक्ष्मिकिनि
+**Kṣīrābdhi Kanyakaku Śrī Mahālakṣmikini**  
 क्षीराब्धि कन्यककु श्री महालक्ष्मिकिनि  
 नीरजालयकुनु नीराजनं॥॥क्षीराब्धि॥  
 जलजाक्षि मोमुनकु जक्कव कुचम्बुलकु  
@@ -766,20 +766,20 @@ Kṣīrābdhi Kanyakaku Śrī Mahālakṣmikini
 नॆगडु सतिकळलकुनु नीराजनं  
 जगति नलमेल्मङ्ग चक्कदनमुल कॆल्ल  
 निगुडु निजशोभनपु नीराजनं॥॥क्षीराब्धि॥  
-kṣīrābdhi kanyakaku śrī mahālakṣmikini  
-nīrajālayakunu nīrājanaṃ....kṣīrābdhi..  
-jalajākṣi mōmunaku jakkava kucambulaku  
-nelakonna kappurapu nīrājanaṃ  
-alivēṇi turumunaku hastakamalambulaku  
-niluvu māṇikyamula nīrājanaṃ....kṣīrābdhi..  
-caraṇa kisalayamulaku sakiya rambhōrulaku  
-niratamagu muttēla nīrājanaṃ  
-aridi jaghanambunaku nativanijanābhikini  
-nirati nānāvarṇa nīrājanaṃ....kṣīrābdhi..  
-pagaṭu śrī vēṅkaṭēśu paṭṭapurāṇiyai  
-negaḍu satikaḷalakunu nīrājanaṃ  
-jagati nalamēlmaṅga cakkadanamula kella  
-niguḍu nijaśōbhanapu nīrājanaṃ....kṣīrābdhi..  
+**kṣīrābdhi kanyakaku śrī mahālakṣmikini**  
+**nīrajālayakunu nīrājanaṃ....kṣīrābdhi..**  
+**jalajākṣi mōmunaku jakkava kucambulaku**  
+**nelakonna kappurapu nīrājanaṃ**  
+**alivēṇi turumunaku hastakamalambulaku**  
+**niluvu māṇikyamula nīrājanaṃ....kṣīrābdhi..**  
+**caraṇa kisalayamulaku sakiya rambhōrulaku**  
+**niratamagu muttēla nīrājanaṃ**  
+**aridi jaghanambunaku nativanijanābhikini**  
+**nirati nānāvarṇa nīrājanaṃ....kṣīrābdhi..**  
+**pagaṭu śrī vēṅkaṭēśu paṭṭapurāṇiyai**  
+**negaḍu satikaḷalakunu nīrājanaṃ**  
+**jagati nalamēlmaṅga cakkadanamula kella**  
+**niguḍu nijaśōbhanapu nīrājanaṃ....kṣīrābdhi..**  
 To the daughter of the milky ocean, to Sree Mahalakshmi,  
 to the one who resides in lotus, “Neerajanam”!  
 To Her lotus-eyed countenance, to Her attractive bosom,  
@@ -796,8 +796,8 @@ To Alamelumanga’s all-pervading magnificence,
 we offer an ever growing auspicious “Neerajanam”* !!  
 Neerajanam : means the waving of light or camphor, or the Aarati  
 3435  
-वीडुगदे शेषुडु श्री वेङ्कटाद्रि  
-Vīḍugadē Śēṣuḍu Śrī Vēṅkaṭādri  
+## वीडुगदे शेषुडु श्री वेङ्कटाद्रि
+**Vīḍugadē Śēṣuḍu Śrī Vēṅkaṭādri**  
 वीडुगदे शेषुडु श्री वेङ्कटाद्रि शेषुडु  
 वेडुक गरुडनितो बॆन्नुद्दैन शेषुडु॥॥वीडु॥  
 वेयि वडिगॆल तोड वॆलसिन शेषुडु  
@@ -812,20 +812,20 @@ Vīḍugadē Śēṣuḍu Śrī Vēṅkaṭādri
 मॊदल देवतलॆल्ला मॊक्कॆ शेषुडु  
 अदॆ श्री वेङ्कटपति कलिमेलु मङ्गकुनु  
 पदरक ये पॊद्दू पानुपैन शेषुडु॥॥वीडु॥  
-vīḍugadē śēṣuḍu śrī vēṅkaṭādri śēṣuḍu  
-vēḍuka garuḍanitō bennuddaina śēṣuḍu....vīḍu..  
-vēyi vaḍigela tōḍa velasina śēṣuḍu  
-cāyamēni taḷuku vajrāla śēṣuḍu  
-māyani śirasulapai māṇikāla śēṣuḍu  
-yēyeḍa hariki nīḍai yēgēṭi śēṣuḍu....vīḍu..  
-paṭṭapu vāhanamaina baṅgāru śēṣuḍu  
-cuṭṭu cuṭṭukonina miñcula śēṣuḍu  
-naṭṭukonna reṇḍuvēlu nālukala śēṣuḍu  
-neṭṭana hari bogaḍa nērupari śēṣuḍu....vīḍu..  
-kadisi panulakella gācukonna śēṣuḍu  
-modala dēvatalellā mokke śēṣuḍu  
-ade śrī vēṅkaṭapati kalimēlu maṅgakunu  
-padaraka yē poddū pānupaina śēṣuḍu....vīḍu..  
+**vīḍugadē śēṣuḍu śrī vēṅkaṭādri śēṣuḍu**  
+**vēḍuka garuḍanitō bennuddaina śēṣuḍu....vīḍu..**  
+**vēyi vaḍigela tōḍa velasina śēṣuḍu**  
+**cāyamēni taḷuku vajrāla śēṣuḍu**  
+**māyani śirasulapai māṇikāla śēṣuḍu**  
+**yēyeḍa hariki nīḍai yēgēṭi śēṣuḍu....vīḍu..**  
+**paṭṭapu vāhanamaina baṅgāru śēṣuḍu**  
+**cuṭṭu cuṭṭukonina miñcula śēṣuḍu**  
+**naṭṭukonna reṇḍuvēlu nālukala śēṣuḍu**  
+**neṭṭana hari bogaḍa nērupari śēṣuḍu....vīḍu..**  
+**kadisi panulakella gācukonna śēṣuḍu**  
+**modala dēvatalellā mokke śēṣuḍu**  
+**ade śrī vēṅkaṭapati kalimēlu maṅgakunu**  
+**padaraka yē poddū pānupaina śēṣuḍu....vīḍu..**  
 He is Sesha! Sree Venkatadri Sesha!  
 The one who is equal to Garuda in every respect, that Sesha!  
 Manifested with a thousand hoods, this Sesha  
@@ -841,8 +841,8 @@ Worshipped first by all Gods is this Sesha
 For Sree Venkatapathi and Alamelumanga,  
 he is the firm eternal couch, this Sesha!  
 3637  
-इटु गरुडनि नी वॆक्किननु  
-Iṭu Garuḍani Nī Vekkinanu  
+## इटु गरुडनि नी वॆक्किननु
+**Iṭu Garuḍani Nī Vekkinanu**  
 इटु गरुडनि नी वॆक्किननु  
 पटपट दिक्कुलु बग्गन बगिलॆ॥॥इटु॥  
 ऎगसिन गरुडनि येपुन "धा’ यनि  
@@ -857,20 +857,20 @@ Iṭu Garuḍani Nī Vekkinanu
 कॆल्लुन नी वॆक्किनयपुडु  
 झल्लनॆ राक्षस समिति नी महिम  
 वॆल्लिमुनु गुदुरु वेङ्कटरमणा॥॥इटु॥  
-iṭu garuḍani nī vekkinanu  
-paṭapaṭa dikkulu baggana bagile....iṭu..  
-egasina garuḍani yēpuna "dhā’ yani  
-jigi dolaka cabuku cēsinanu  
-nigamāntambulu nigama saṅghamulu  
-gaganamu jagamulu gaḍagaḍa vaḍake....iṭu..  
-birusuga garuḍani pēremu dōlucu  
-berasi nīvu gōpiñcinanu  
-sarasa nakhilamulu jarjaritamulai  
-tirupuna nalugaḍa diradira dirige....iṭu..  
-palliñcina nīpasiḍi garuḍanini  
-kelluna nī vekkinayapuḍu  
-jhallane rākṣasa samiti nī mahima  
-vellimunu guduru vēṅkaṭaramaṇā....iṭu..  
+**iṭu garuḍani nī vekkinanu**  
+**paṭapaṭa dikkulu baggana bagile....iṭu..**  
+**egasina garuḍani yēpuna "dhā’ yani**  
+**jigi dolaka cabuku cēsinanu**  
+**nigamāntambulu nigama saṅghamulu**  
+**gaganamu jagamulu gaḍagaḍa vaḍake....iṭu..**  
+**birusuga garuḍani pēremu dōlucu**  
+**berasi nīvu gōpiñcinanu**  
+**sarasa nakhilamulu jarjaritamulai**  
+**tirupuna nalugaḍa diradira dirige....iṭu..**  
+**palliñcina nīpasiḍi garuḍanini**  
+**kelluna nī vekkinayapuḍu**  
+**jhallane rākṣasa samiti nī mahima**  
+**vellimunu guduru vēṅkaṭaramaṇā....iṭu..**  
 In this manner, when You mounted Garuda,  
 the four directions broke apart!  
 When Garuda flew up, with a deafening sound  
@@ -886,8 +886,8 @@ when You mounted,
 the groups of Rakshasas, startled in fear,  
 got inundated in Your divine glory, O Venkataramana!  
 3839  
-नीवेका चॆप्पजाप नीवॆ नीवेका  
-Nīvēkā Ceppajūpa Nīve Nīvēkā  
+## नीवेका चॆप्पजाप नीवॆ नीवेका
+**Nīvēkā Ceppajūpa Nīve Nīvēkā**  
 नीवेका चॆप्पजाप नीवॆ नीवेका  
 श्रीविभुप्रतिनिधिवि सेनमॊदलारि ॥॥नीवेका॥  
 नीवेका कट्टॆदुर निलुचुण्डि हरिवद्द  
@@ -902,20 +902,20 @@ Nīvēkā Ceppajūpa Nīve Nīvēkā
 मिरवुगा नेलिति वेकराज्यमै  
 परगु सूत्रवतिपतिवै वेङ्कटविभु-  
 सिरुल पॆन्निधि नीवॆ सेनमॊदलारि ॥॥नीवेका॥  
-nīvēkā ceppajūpa nīve nīvēkā  
-śrīvibhupratinidhivi sēnamodalāri ....nīvēkā..  
-nīvēkā kaṭṭedura nilucuṇḍi harivadda  
-dēvatalaganipiñcē dēvuḍavu  
-yēvaṅka viccēsinānu yindirāpatiki nija-  
-sēvakuḍavu nīvēkā sēnamodalāri ....nīvēkā..  
-pasiḍibaddalavāru padigōṭṭu goluva  
-desala bampulu vampē dhīruḍavu  
-vasamugā mujjagālavāri nindaṟini nī-  
-sisuvulagā nēlina sēnamodalāri ....nīvēkā..  
-doralaina yasurula duttumuru sēsi jaga-  
-miravugā nēliti vēkarājyamai  
-paragu sūtravatipativai vēṅkaṭavibhu-  
-sirula pennidhi nīve sēnamodalāri ....nīvēkā..  
+**nīvēkā ceppajūpa nīve nīvēkā**  
+**śrīvibhupratinidhivi sēnamodalāri ....nīvēkā..**  
+**nīvēkā kaṭṭedura nilucuṇḍi harivadda**  
+**dēvatalaganipiñcē dēvuḍavu**  
+**yēvaṅka viccēsinānu yindirāpatiki nija-**  
+**sēvakuḍavu nīvēkā sēnamodalāri ....nīvēkā..**  
+**pasiḍibaddalavāru padigōṭṭu goluva**  
+**desala bampulu vampē dhīruḍavu**  
+**vasamugā mujjagālavāri nindaṟini nī-**  
+**sisuvulagā nēlina sēnamodalāri ....nīvēkā..**  
+**doralaina yasurula duttumuru sēsi jaga-**  
+**miravugā nēliti vēkarājyamai**  
+**paragu sūtravatipativai vēṅkaṭavibhu-**  
+**sirula pennidhi nīve sēnamodalāri ....nīvēkā..**  
 You are the one to be proclaimed! You are the one, you are the one!  
 The representative of the Lord of Sree, O Sena Mudalari!  
 Standing right in front of Lord Hari,  
@@ -932,8 +932,8 @@ O Lord of Sootravathi1, you are the great treasure of
 Lord Venkatapathi, O Sena Mudalari!  
 1. Sootravathi is the wife of Vishwaksena  
 4041  
-ओ पवनात्मज ओ घनुड  
-Ō Pavanātmaja Ō Ghanuḍa  
+## ओ पवनात्मज ओ घनुड
+**Ō Pavanātmaja Ō Ghanuḍa**  
 ओ पवनात्मज ओ घनुड  
 बापु बापनग बरगितिगा॥॥ओ॥  
 वो हनुमन्तुड वुदयाचल नि  
@@ -948,20 +948,20 @@ Lord Venkatapathi, O Sena Mudalari!
 पादसरोरुहपालकु डा  
 यीदेहमुतो निन्नि लोकमुलु  
 नी देहमॆक्क निलिचितिगा॥॥ओ॥  
-ō pavanātmaja ō ghanuḍa  
-bāpu bāpanaga baragitigā....ō..  
-vō hanumantuḍa vudayācala ni  
-rvāhaka nijasarva prabala  
-dēhamu mōcina teguvaku niṭuvale  
-sāhasamiṭuvale jāṭitigā....ō..  
-vō ravi grahaṇa vō danujāntaka  
-mārulēka mati malasitigā  
-dāruṇapu vinatātana yādulu  
-gāravimpa niṭu galigitigā....ō..  
-vō daśamukhahara vō vēṅkaṭapati  
-pādasarōruhapālaku ḍā  
-yīdēhamutō ninni lōkamulu  
-nī dēhamekka nilicitigā....ō..  
+**ō pavanātmaja ō ghanuḍa**  
+**bāpu bāpanaga baragitigā....ō..**  
+**vō hanumantuḍa vudayācala ni**  
+**rvāhaka nijasarva prabala**  
+**dēhamu mōcina teguvaku niṭuvale**  
+**sāhasamiṭuvale jāṭitigā....ō..**  
+**vō ravi grahaṇa vō danujāntaka**  
+**mārulēka mati malasitigā**  
+**dāruṇapu vinatātana yādulu**  
+**gāravimpa niṭu galigitigā....ō..**  
+**vō daśamukhahara vō vēṅkaṭapati**  
+**pādasarōruhapālaku ḍā**  
+**yīdēhamutō ninni lōkamulu**  
+**nī dēhamekka nilicitigā....ō..**  
 O Pavanatmaja1! O great one!  
 In a wonderful way your prowess dazzled!  
 O Hanumantha! O one who is capable of reaching  
@@ -978,8 +978,8 @@ When He mounted onto you with all the worlds within His body,
 you could stand supporting Him!!  
 1. Pavanatmaja is Hanuman, who is the son of the wind God  
 4243  
-चक्रमा हरिचक्रमा  
-Cakramā Haricakramā  
+## चक्रमा हरिचक्रमा
+**Cakramā Haricakramā**  
 चक्रमा हरिचक्रमा  
 वक्रमैन दनुजुल वक्कलिञ्चवो॥॥चक्र॥  
 चुट्टिचुट्टि पाताळमु चॊच्चि हिरण्याक्षुनि -  
@@ -994,20 +994,20 @@ Cakramā Haricakramā
 वुऱुट्लु गॊनियाडे रो चक्रमा  
 अऱिमुऱि दिरुवेकटाद्रीशु वीथुल  
 वॊऱवुल मॆऱयदुवो वो चक्रमा॥॥चक्र॥  
-cakramā haricakramā  
-vakramaina danujula vakkaliñcavō....cakra..  
-cuṭṭicuṭṭi pātāḷamu cocci hiraṇyākṣuni -  
-caṭṭalu cīrina vō cakramā  
-paṭṭina śrīharicēta bāyaka yī jagamulu  
-voṭṭukoni kāvagadavō vō cakramā....cakra..  
-pānukoni danujula balukirīṭamaṇula  
-sīnala dīrina vō cakramā  
-nānā jīvamula prāṇamulu gāci dharma -  
-mūni nilupa gadavō vō cakramā....cakra..  
-veṟaci brahmādulu vēdamantramula nī -  
-vuṟuṭlu goniyāḍē rō cakramā  
-aṟimuṟi diruvēkaṭādrīśu vīthula  
-voṟavula meṟayuduvō vō cakramā....cakra..  
+**cakramā haricakramā**  
+**vakramaina danujula vakkaliñcavō....cakra..**  
+**cuṭṭicuṭṭi pātāḷamu cocci hiraṇyākṣuni -**  
+**caṭṭalu cīrina vō cakramā**  
+**paṭṭina śrīharicēta bāyaka yī jagamulu**  
+**voṭṭukoni kāvagadavō vō cakramā....cakra..**  
+**pānukoni danujula balukirīṭamaṇula**  
+**sīnala dīrina vō cakramā**  
+**nānā jīvamula prāṇamulu gāci dharma -**  
+**mūni nilupa gadavō vō cakramā....cakra..**  
+**veṟaci brahmādulu vēdamantramula nī -**  
+**vuṟuṭlu goniyāḍē rō cakramā**  
+**aṟimuṟi diruvēkaṭādrīśu vīthula**  
+**voṟavula meṟayuduvō vō cakramā....cakra..**  
 O Discus! Hari’s Discus!  
 Do encounter and annihilate the evil demons!  
 Turning and spinning, reaching the nether worlds  
@@ -1023,8 +1023,8 @@ praise your powerful rotations, O Discus!
 Whirling about when Sree Venkataadisha is being taken  
 around the streets in procession, You shine splendidly, O Discus!  
 4445  
-नमो नमो दानव विनाश चक्रमा  
-Namō Namō Dānava Vināśa Cakramā  
+## नमो नमो दानव विनाश चक्रमा
+**Namō Namō Dānava Vināśa Cakramā**  
 नमो नमो दानव विनाश चक्रमा  
 समर विजयमैन सर्वेशु चक्रमा॥॥नमो॥  
 अट्टॆ पदारु भुजाल नमरिन चक्रमा  
@@ -1039,20 +1039,20 @@ Namō Namō Dānava Vināśa Cakramā
 दिविज सेवितमैन दिव्य चक्रमा  
 तविलि श्री वेङ्कटेशु दक्षिण कर चक्रमा  
 यिवल नी दासुलमु येलुकोवे चक्रमा॥॥नमो॥  
-namō namō dānava vināśa cakramā  
-samara vijayamaina sarvēśu cakramā....namō..  
-aṭṭe padāru bhujāla namarina cakramā  
-paṭṭina āyudhamula balu cakramā  
-neṭṭana mūḍu gannula nilicina cakramā  
-ṟaṭṭugā manniñcavē meṟayucu cakramā....namō..  
-āraya nārugōṇāla namarina cakramā  
-dhāralu vēyiṭitōḍitagu cakramā  
-āraka mīdiki veḷḷē agniśikhala cakramā  
-gāravāna nī dāsula gāvavē cakramā....namō..  
-ravicandra kōṭi tējarāsiyaina cakramā  
-divija sēvitamaina divya cakramā  
-tavili śrī vēṅkaṭēśu dakṣiṇa kara cakramā  
-yivala nī dāsulamu yēlukōvē cakramā....namō..  
+**namō namō dānava vināśa cakramā**  
+**samara vijayamaina sarvēśu cakramā....namō..**  
+**aṭṭe padāru bhujāla namarina cakramā**  
+**paṭṭina āyudhamula balu cakramā**  
+**neṭṭana mūḍu gannula nilicina cakramā**  
+**ṟaṭṭugā manniñcavē meṟayucu cakramā....namō..**  
+**āraya nārugōṇāla namarina cakramā**  
+**dhāralu vēyiṭitōḍitagu cakramā**  
+**āraka mīdiki veḷḷē agniśikhala cakramā**  
+**gāravāna nī dāsula gāvavē cakramā....namō..**  
+**ravicandra kōṭi tējarāsiyaina cakramā**  
+**divija sēvitamaina divya cakramā**  
+**tavili śrī vēṅkaṭēśu dakṣiṇa kara cakramā**  
+**yivala nī dāsulamu yēlukōvē cakramā....namō..**  
 Salutations to you, O divine Discus who destroys demons!  
 O victorious one in battle, O Discus of the great Lord!  
 O divine Discus with sixteen arms  
@@ -1068,8 +1068,8 @@ O Discus worshipped even by demigods
 O Discus resplendently wielded by the right hand of Sree Venkatesha  
 Here, do rule over us, who are the servants of yours, O Discus!!!  
 4647  
-अदिवो अल्लदिवो श्रीहरिवासमु  
-Adivō Alladivō Śrīharivāsamu  
+## अदिवो अल्लदिवो श्रीहरिवासमु
+**Adivō Alladivō Śrīharivāsamu**  
 अदिवो अल्लदिवो श्रीहरिवासमु  
 पदिवेल शेषुल पडगलमयमु ॥॥अदिवो॥  
 अदॆ वेङ्कटाचल मखिलोन्नतमु  
@@ -1084,20 +1084,20 @@ Adivō Alladivō Śrīharivāsamu
 श्री वेङ्कटपतिकि सिरुलैनवि  
 भाविम्प सकलसम्पदरूपमदिवो  
 पावनमुलकॆल्ल पावनमयमु ॥॥अदिवो॥  
-adivō alladivō śrīharivāsamu  
-padivēla śēṣula paḍagalamayamu ....adivō..  
-ade vēṅkaṭācala makhilōnnatamu  
-adivō brahmādula kapurūpamu  
-adivō nityanivāsa makhilamunulaku  
-ade cūḍuḍade mrokkuḍānandamayamu ....adivō..  
-ceṅgaṭa nalladivō śēṣācalamu  
-niṅgi nunnadēvatala nijavāsamu  
-muṅgiṭa nalladivō mūlanunnadhanamu  
-baṅgāru śikharāla bahu brahmamayamu ....adivō..  
-kaivalyapadamu vēṅkaṭanagamadivō  
-śrī vēṅkaṭapatiki sirulainavi  
-bhāvimpa sakalasampadarūpamadivō  
-pāvanamulakella pāvanamayamu ....adivō..  
+**adivō alladivō śrīharivāsamu**  
+**padivēla śēṣula paḍagalamayamu ....adivō..**  
+**ade vēṅkaṭācala makhilōnnatamu**  
+**adivō brahmādula kapurūpamu**  
+**adivō nityanivāsa makhilamunulaku**  
+**ade cūḍuḍade mrokkuḍānandamayamu ....adivō..**  
+**ceṅgaṭa nalladivō śēṣācalamu**  
+**niṅgi nunnadēvatala nijavāsamu**  
+**muṅgiṭa nalladivō mūlanunnadhanamu**  
+**baṅgāru śikharāla bahu brahmamayamu ....adivō..**  
+**kaivalyapadamu vēṅkaṭanagamadivō**  
+**śrī vēṅkaṭapatiki sirulainavi**  
+**bhāvimpa sakalasampadarūpamadivō**  
+**pāvanamulakella pāvanamayamu ....adivō..**  
 There! O there is Sri Hari’s abode!  
 It is but Sesha’s ten thousand hoods!  
 That is Venkatachala, the superior most,  
@@ -1113,8 +1113,8 @@ It is Sree Venkata’s bounteous prosperity
 If you can perceive it, it is your fortune in all its entirety,  
 and the purest of all purity!  
 4849  
-ऎट्टु नेरिचितिवय्य यिन्नि  
-Eṭṭu Nēricitivayya Yinni  
+## ऎट्टु नेरिचितिवय्य यिन्नि
+**Eṭṭu Nēricitivayya Yinni**  
 ऎट्टु नेरिचितिवय्य यिन्नि वाहनमुलॆक्क  
 गटिगा निंवुके हरि कडु मॆच्चेमय्या॥॥ऎट्टु॥  
 गरुडुनि मीद नॆक्कि गमनिञ्चितिवि नाडु  
@@ -1129,20 +1129,20 @@ Eṭṭu Nēricitivayya Yinni
 पट्टियॆड न धर्ममु नडचगनु  
 मॆट्टुक श्री वेङ्कटाद्रि मीद बल्लकि यॆक्किति  
 विट्टॆ यिन्दिर गूडि येगु बॆण्ड्लि येगनु॥॥ऎट्टु॥  
-eṭṭu nēricitivayya yinni vāhanamulekka  
-gaṭigā niṃvukē hari kaḍu meccēmayyā....eṭṭu..  
-garuḍuni mīda nekki gamaniñcitivi nāḍu  
-arudaina pārijātaharaṇānaku  
-garimatō rathamekki kadaliti vallanāḍu  
-soradi brāhmaṇapaḍucula nuddhariñcanu....eṭṭu..  
-cakkagā gubēruni puṣpaka mekki kadaliti  
-makkuva sītādēvi maraliñcanu  
-takkaka vāyuju nekki dāḍi vetṭitivi nāḍu  
-cokkapu vānarula paujulu cūḍanu....eṭṭu..  
-koṭṭagana nīvu rāti guṟṟamu nekki tōliti  
-paṭṭiyeḍa na dharmamu naḍacaganu  
-meṭṭuka śrī vēṅkaṭādri mīda ballaki yekkiti  
-viṭṭe yindira gūḍi yēgu beṇḍli yēganu....eṭṭu..  
+**eṭṭu nēricitivayya yinni vāhanamulekka**  
+**gaṭigā niṃvukē hari kaḍu meccēmayyā....eṭṭu..**  
+**garuḍuni mīda nekki gamaniñcitivi nāḍu**  
+**arudaina pārijātaharaṇānaku**  
+**garimatō rathamekki kadaliti vallanāḍu**  
+**soradi brāhmaṇapaḍucula nuddhariñcanu....eṭṭu..**  
+**cakkagā gubēruni puṣpaka mekki kadaliti**  
+**makkuva sītādēvi maraliñcanu**  
+**takkaka vāyuju nekki dāḍi vetṭitivi nāḍu**  
+**cokkapu vānarula paujulu cūḍanu....eṭṭu..**  
+**koṭṭagana nīvu rāti guṟṟamu nekki tōliti**  
+**paṭṭiyeḍa na dharmamu naḍacaganu**  
+**meṭṭuka śrī vēṅkaṭādri mīda ballaki yekkiti**  
+**viṭṭe yindira gūḍi yēgu beṇḍli yēganu....eṭṭu..**  
 How did You learn, O Lord, the skill of mounting so many Vahanas?  
 This is the reason O Hari, we appreciate You immensely!  
 You mounted onto Garuda on that day,  
@@ -1158,8 +1158,8 @@ to counter Adharma and destroy it!
 And upon Sree Venkatadri, You mounted the palanquin  
 along with Lakshmi, to proceed for Your wedding!!!  
 5051  
-सकल लोकेश्वरुलु सरुस  
-Sakala Lōkēśvarulu Sarusa  
+## सकल लोकेश्वरुलु सरुस
+**Sakala Lōkēśvarulu Sarusa**  
 सकल लोकेश्वरुलु सरुस चेकॊनुवाडु  
 अकलङ्कमुग पुष्प यागम्बु ॥॥ सकल ॥  
 विविध मन्त्रमुलतो वेदफॆूषमुलतो  
@@ -1174,20 +1174,20 @@ Sakala Lōkēśvarulu Sarusa
 पगटुतो नीरीति पदिपूजलन्दुकॊनि  
 जिगिमीरॆ चूडरे श्री वेङ्कटेश्वरुनि  
 अगणितम्बगु पुष्प यागम्बु ॥॥ सकल ॥  
-sakala lōkēśvarulu sarusa cēkonuvāḍu  
-akalaṅkamuga puṣpa yāgambu .... sakala ..  
-vividha mantramulatō vēdaghōṣamulatō  
-avala tiruvāmuḍiyu aṃganala āṭatō  
-kavivandinutulatō kamma pūjalatōḍa -  
-navadhariñcī puṣpa yāgambu .... sakala ..  
-kappurapuṭāratula ghanacandanamu tōḍa  
-teppala dhūpamula tiruvandi kāputō  
-oppu(ga) paṇyāramulu vogi pekkuvagalatō  
-appaḍandī puṣpa yāgambu .... sakala ..  
-tagu chatra cāmara tāmbulamulatōḍa  
-pagaṭutō nīrīti padipūjalandukoni  
-jigimīre cūḍarē śrī vēṅkaṭēśvaruni  
-agaṇitambagu puṣpa yāgambu .... sakala ..  
+**sakala lōkēśvarulu sarusa cēkonuvāḍu**  
+**akalaṅkamuga puṣpa yāgambu .... sakala ..**  
+**vividha mantramulatō vēdaghōṣamulatō**  
+**avala tiruvāmuḍiyu aṃganala āṭatō**  
+**kavivandinutulatō kamma pūjalatōḍa -**  
+**navadhariñcī puṣpa yāgambu .... sakala ..**  
+**kappurapuṭāratula ghanacandanamu tōḍa**  
+**teppala dhūpamula tiruvandi kāputō**  
+**oppu(ga) paṇyāramulu vogi pekkuvagalatō**  
+**appaḍandī puṣpa yāgambu .... sakala ..**  
+**tagu chatra cāmara tāmbulamulatōḍa**  
+**pagaṭutō nīrīti padipūjalandukoni**  
+**jigimīre cūḍarē śrī vēṅkaṭēśvaruni**  
+**agaṇitambagu puṣpa yāgambu .... sakala ..**  
 He, the Lord of all the worlds, receives gracefully,  
 in a pristine manner, the Pushpayagam1!  
 Along with various mantras, along with the Veda Goshas  
@@ -1207,8 +1207,8 @@ in the glorious Pushpayagam!
 3.Waving of the lamp  
 4.Food offerings  
 5253  
-मरिगि वीरॆपो मादैवम्बुलु  
-Marigi Vīrepō Mādaivambulu  
+## मरिगि वीरॆपो मादैवम्बुलु
+**Marigi Vīrepō Mādaivambulu**  
 मरिगि वीरॆपो मादैवम्बुलु  
 कॆरलिन हरि सङ्कीर्तनपरुलु ॥॥ मरिगि ॥  
 विनियॆडिवीनुलु विष्णुकथलके  
@@ -1223,20 +1223,20 @@ Marigi Vīrepō Mādaivambulu
 मुरियचु जेतुरु मुमुक्षुलु  
 यिरवुग श्रीवेङ्कटेश्वरुमतमे  
 सिरुल नम्मुदुरु श्रीवैष्णवुलु ॥॥ मरिगि ॥  
-marigi vīrepō mādaivambulu  
-keralina hari saṅkīrtanaparulu .... marigi ..  
-viniyeḍivīnulu viṣṇukathalakē  
-panigonduru māprapannulu  
-kaviyeḍikannulu kamalākṣunilayaṃ -  
-danuvu paratu raṭu hari sēvakulu .... marigi ..  
-palikeḍipalukulu paramātmunikai  
-yalavaraturu śaraṇāgatulu  
-talacēṭi talapulu dharaṇīdharupai  
-talakolupudu rātadiyyulu .... marigi ..  
-karamula śrīpatikaiṅkaryamulē  
-muriyucu jēturu mumukṣulu  
-yiravuga śrīvēṅkaṭēśvarumatamē  
-sirula nammuduru śrīvaiṣṇavulu .... marigi ..  
+**marigi vīrepō mādaivambulu**  
+**keralina hari saṅkīrtanaparulu .... marigi ..**  
+**viniyeḍivīnulu viṣṇukathalakē**  
+**panigonduru māprapannulu**  
+**kaviyeḍikannulu kamalākṣunilayaṃ -**  
+**danuvu paratu raṭu hari sēvakulu .... marigi ..**  
+**palikeḍipalukulu paramātmunikai**  
+**yalavaraturu śaraṇāgatulu**  
+**talacēṭi talapulu dharaṇīdharupai**  
+**talakolupudu rātadiyyulu .... marigi ..**  
+**karamula śrīpatikaiṅkaryamulē**  
+**muriyucu jēturu mumukṣulu**  
+**yiravuga śrīvēṅkaṭēśvarumatamē**  
+**sirula nammuduru śrīvaiṣṇavulu .... marigi ..**  
 They themselves are like our Gods!  
 Those great ones who praise Hari ardently!  
 The ears that can hear, they use them only to listen to  
@@ -1254,8 +1254,8 @@ as the true treasure, these Sree Vaishnavas!
 1.Tadeeyas are ‘Those who belong to Him’ (i.e those who surrender to Lord Hari)  
 2.Those who aspire for Moksha, i.e Salvation  
 5455  
-दैवमा नीकु वॆलिता  
-Daivamā Nīku Velitā  
+## दैवमा नीकु वॆलिता
+**Daivamā Nīku Velitā**  
 दैवमा नीकु वॆलिता तलपुवॆलितेकाक  
 वेवेलुकर्माल वेसारग वलसॆ ॥॥ दैवमा ॥  
 हरियण्टे बापेटि अन्नि पापालु सेसिन  
@@ -1270,20 +1270,20 @@ Daivamā Nīku Velitā
 आदिगा मूडुलोकालनैना नुन्नदा  
 श्रीदेविपतियैन श्रीवेङ्कटेश्वरुडा  
 येदॆसा नीवे नन्नु यीडेर्तुवुगाक ॥॥ दैवमा ॥  
-daivamā nīku velitā talapuvelitēkāka  
-vēvēlukarmāla vēsāraga valase .... daivamā ..  
-hariyaṇṭē bāpēṭi anni pāpālu sēsina  
-pori nandupai nammika puṭṭadugāka  
-narasiṃhayaṇṭē vaccēnānāpuṇyālaku  
-tiramugā ṛṇamulu dīrcukonagalanā .... daivamā ..  
-dēva jagannāthayaṇṭē tegani janmamu lēvi  
-kaivaśamu nāmanasu gādugāka  
-gōvindayaniyaṇṭē gūḍanipadavu lēvi  
-kāviri gāla mūrake kaḍapēmu nēmu .... daivamā ..  
-vēdanārāyaṇayaṇṭē vīḍēṭibandhamulu  
-ādigā mūḍulōkālanainā nunnadā  
-śrīdēvipatiyaina śrīvēṅkaṭēśvaruḍā  
-yēdesā nīvē nannu yīḍērtuvugāka .... daivamā ..  
+**daivamā nīku velitā talapuvelitēkāka**  
+**vēvēlukarmāla vēsāraga valase .... daivamā ..**  
+**hariyaṇṭē bāpēṭi anni pāpālu sēsina**  
+**pori nandupai nammika puṭṭadugāka**  
+**narasiṃhayaṇṭē vaccēnānāpuṇyālaku**  
+**tiramugā ṛṇamulu dīrcukonagalanā .... daivamā ..**  
+**dēva jagannāthayaṇṭē tegani janmamu lēvi**  
+**kaivaśamu nāmanasu gādugāka**  
+**gōvindayaniyaṇṭē gūḍanipadavu lēvi**  
+**kāviri gāla mūrake kaḍapēmu nēmu .... daivamā ..**  
+**vēdanārāyaṇayaṇṭē vīḍēṭibandhamulu**  
+**ādigā mūḍulōkālanainā nunnadā**  
+**śrīdēvipatiyaina śrīvēṅkaṭēśvaruḍā**  
+**yēdesā nīvē nannu yīḍērtuvugāka .... daivamā ..**  
 O Lord, is there any shortcoming in You? Our thoughts alone are deficient!  
 Getting caught in thousands of Karmas, we become vexed!  
 Though by saying ‘Hari’ even once, all accrued sins get destroyed,  
@@ -1299,8 +1299,8 @@ Is there anything greater than this in the three worlds, from ever before?
 O consort of Sree Devi! O Sree Venkatesha!  
 You alone save us in every way!  
 5657  
-पट्टिनदॆल्ला ब्रह्ममु  
-Paṭṭinadellā Brahmamu  
+## पट्टिनदॆल्ला ब्रह्ममु
+**Paṭṭinadellā Brahmamu**  
 पट्टिनदॆल्ला ब्रह्ममु  
 दट्टपुजडुनिकि दैवम्बेला ॥॥ पट्टिन ॥  
 घनयाचकुनकु कनकमे ब्रह्ममु  
@@ -1315,20 +1315,20 @@ Paṭṭinadellā Brahmamu
 नव मिन्दरि किदि नडचेदि  
 यिवलनु श्री वेङ्कटेशुदासुलकु  
 भव मतनिकृपे ब्रह्ममु ॥॥ पट्टिन ॥  
-paṭṭinadellā brahmamu  
-daṭṭapujaḍuniki daivambēlā .... paṭṭina ..  
-ghanayācakunaku kanakamē brahmamu  
-tanuvē brahmamu taruvaliki  
-yenaya gāmukuna kintulē brahmamu  
-tanalō veligēṭi tatvaṃ bēlā .... paṭṭina ..  
-ākaṭivāniki nannamē brahmamu  
-lōkamē brahmamu lōluniki  
-kai koni karmiki kālamē brahmamu  
-śrīkāntunipai jiṃ tadi yēlā .... paṭṭina ..  
-bhuvi saṃsāriki putrule brahmamu  
-nava mindari kidi naḍacēdi  
-yivalanu śrī vēṅkaṭēśudāsulaku  
-bhava matanikṛpē brahmamu .... paṭṭina ..  
+**paṭṭinadellā brahmamu**  
+**daṭṭapujaḍuniki daivambēlā .... paṭṭina ..**  
+**ghanayācakunaku kanakamē brahmamu**  
+**tanuvē brahmamu taruvaliki**  
+**yenaya gāmukuna kintulē brahmamu**  
+**tanalō veligēṭi tatvaṃ bēlā .... paṭṭina ..**  
+**ākaṭivāniki nannamē brahmamu**  
+**lōkamē brahmamu lōluniki**  
+**kai koni karmiki kālamē brahmamu**  
+**śrīkāntunipai jiṃ tadi yēlā .... paṭṭina ..**  
+**bhuvi saṃsāriki putrule brahmamu**  
+**nava mindari kidi naḍacēdi**  
+**yivalanu śrī vēṅkaṭēśudāsulaku**  
+**bhava matanikṛpē brahmamu .... paṭṭina ..**  
 All that which is acquired is the Supreme,  
 for the highly ignorant one. Why at all a God for him?  
 For a lowly beggar, gold is the Supreme  
@@ -1343,8 +1343,7 @@ For an earthly Samsarin, progeny is the Supreme
 For these people, this alone is the ever-fresh way of life!  
 Whereas, for the dasas of Sree Venkatesha,  
 in worldly existence, His grace alone is the Supreme!  
-5859  
-
+5859
 
 ## परमवैष्णवुल भाग्यं बिदिवो
 **Paramavaiṣṇavula Bhāgyaṃ Bidivō**  
