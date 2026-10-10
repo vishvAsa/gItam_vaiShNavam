@@ -53,6 +53,7 @@ title = "१५० तन्दनान अहि तन्दनान पु�
 **jaḍiyu śrī vēṅkaṭēśvaru nāma mokaṭē**  
 Tandanaa na ahi Tandanaa na pure\!  
 Tandanaa na bhala Tandanaa na\!  
+
 Brahman is One\! The Supreme Brahman is One\!  
 Brahman is One\! The Supreme Brahman is One\!  
 There is no disparity of high and low,  
